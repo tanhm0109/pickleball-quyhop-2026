@@ -61,10 +61,10 @@ Người đủ điều kiện tham gia là những người **đang sinh sống,
 pickleball-quyhop-2026/
 ├── CLAUDE.md                            # Tài liệu tổng quan dự án (file này)
 └── docs/
-    ├── ke-hoach-trien-khai.md          # Kế hoạch & timeline triển khai
+    ├── 01-ke-hoach-trien-khai.md       # Kế hoạch & timeline triển khai
+    ├── 02-bang-phan-cong-btc.md        # Phân công BTC + bảng công việc
+    ├── 03-thong-bao-giai-dau.md        # Nội dung thông báo (Zalo, Facebook)
     ├── the-le-giai.md                  # Thể lệ và điều lệ giải đấu
-    ├── thong-bao-giai-dau.md           # Nội dung thông báo (Zalo, Facebook)
-    ├── bang-phan-cong-btc.md           # Phân công BTC + bảng công việc
     └── danh-sach-dang-ky.md            # Danh sách người đăng ký (cập nhật dần)
 ```
 
