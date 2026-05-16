@@ -9,12 +9,12 @@
 🏓 **GIẢI PICKLEBALL GIAO LƯU — HĐH QUỲ HỢP PHÍA BẮC**
 📅 Thứ Bảy, **13/6/2026**
 
-Bà con ơi, BTC tổ chức giải Pickleball giao lưu cho đồng hương mình!
-Thi đấu đôi + tiệc bia giao lưu sau giải 🍺
+Ban Tổ chức trân trọng thông báo: **Giải Pickleball Giao Lưu HĐH Quỳ Hợp Khu Vực Phía Bắc** sẽ chính thức được tổ chức!
+Nội dung: thi đấu đôi + tiệc bia giao lưu sau giải 🍺
 
 **Ai được tham gia?**
 Người gốc Quỳ Hợp, con cháu, dâu/rể, người yêu — đang sống/làm việc tại Hà Nội & khu vực phía Bắc.
-*(Chưa biết chơi cũng không sao, BTC sẽ chia đội phù hợp!)*
+*(Newbie chưa biết chơi cũng không sao — BTC sẽ chia đội phù hợp!)*
 
 📲 **Đăng ký:** Bình chọn trong cuộc thăm dò bên dưới 👇
 BTC sẽ nhắn lại để xác nhận.

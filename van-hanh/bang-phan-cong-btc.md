@@ -30,7 +30,7 @@
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
-| 1.1 | Tạo cuộc bình chọn trên Zalo nhóm | 25/5 | ⬜ |
+| 1.1 | Tạo cuộc bình chọn trên Zalo nhóm | Ngay sau họp BTC lần 1 | ⬜ |
 | 1.2 | Theo dõi & tổng hợp danh sách người bình chọn "Tham gia" | Liên tục đến 8/6 | ⬜ |
 | 1.3 | Nhắn riêng xác nhận từng người đăng ký (tên, tuổi, trình độ) | Đến 9/6 | ⬜ |
 | 1.4 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 9/6 | ⬜ |
@@ -46,7 +46,7 @@
 |---|-----------|----------|------------|
 | 2.1 | Khảo sát 2–3 sân Pickleball phù hợp tại HN | 20/5 | ⬜ |
 | 2.2 | Báo giá & xác nhận số sân cần thiết với Trưởng BTC | 22/5 | ⬜ |
-| 2.3 | Đặt cọc / ký xác nhận sân | 25/5 | ⬜ |
+| 2.3 | Đặt cọc / ký xác nhận sân | 22/5 | ⬜ |
 | 2.4 | Xác nhận lại với sân trước ngày thi 3 ngày | 10/6 | ⬜ |
 | 2.5 | Có mặt tại sân sớm để kiểm tra chuẩn bị | 13/6 sáng | ⬜ |
 
@@ -60,8 +60,8 @@
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
-| 3.1 | Thiết kế poster/ảnh thông báo giải | 24/5 | ⬜ |
-| 3.2 | Đăng Thông báo 1 (phát động) lên Zalo + Facebook | 25/5 | ⬜ |
+| 3.1 | Thiết kế poster/ảnh thông báo giải | Trước họp BTC lần 1 | ⬜ |
+| 3.2 | Đăng Thông báo 1 (phát động) lên Zalo + Facebook | Ngay sau họp BTC lần 1 | ⬜ |
 | 3.3 | Ghim bài + nhắc lại trên Zalo nhóm | 1/6 | ⬜ |
 | 3.4 | Đăng Thông báo 2 (nhắc đăng ký — sắp đóng) | 4/6 | ⬜ |
 | 3.5 | Đăng Thông báo 3 (lịch thi đấu chính thức) | 11/6 | ⬜ |
@@ -75,7 +75,7 @@
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
-| 4.1 | Khảo sát địa điểm tổ chức tiệc bia (gần sân) | 25/5 | ⬜ |
+| 4.1 | Khảo sát địa điểm tổ chức tiệc bia (gần sân) | 22/5 | ⬜ |
 | 4.2 | Xác nhận số người tham dự tiệc với Trưởng BTC | 10/6 | ⬜ |
 | 4.3 | Đặt bàn / đặt cọc nhà hàng/quán bia | 10/6 | ⬜ |
 | 4.4 | Chuẩn bị nước uống, khăn lạnh cho ngày thi đấu | 12/6 | ⬜ |
@@ -90,7 +90,7 @@
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
-| 5.1 | Thống nhất với BTC về cơ cấu giải thưởng | 25/5 | ⬜ |
+| 5.1 | Thống nhất với BTC về cơ cấu giải thưởng | Họp BTC lần 1 | ⬜ |
 | 5.2 | Liên hệ đặt cúp, huy chương (nếu có) | 1/6 | ⬜ |
 | 5.3 | Chuẩn bị phần thưởng (tiền thưởng / hiện vật) | 10/6 | ⬜ |
 | 5.4 | Chuẩn bị bằng khen / giấy chứng nhận (nếu có) | 11/6 | ⬜ |
