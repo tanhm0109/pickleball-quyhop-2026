@@ -22,9 +22,9 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 |------|-----------|-----------------|
 | Đến 18/5 | Xác nhận 10 thành viên BTC, phân vai trò | Trưởng BTC |
 | Đến 18/5 | Họp BTC lần 1: ngân sách, cơ cấu giải thưởng, quy mô | Tất cả BTC |
+| **Ngay sau họp BTC** | **Phát động: đăng Thông báo 1 + tạo bình chọn Zalo** | Phụ trách TT + Thư ký |
 | Đến 20/5 | Khảo sát sân, báo giá, chốt địa điểm | Phụ trách Sân |
 | Đến 22/5 | Đặt cọc sân | Trưởng BTC + Phụ trách Sân |
-| **25/5** | **Phát động: đăng Thông báo 1 + tạo bình chọn Zalo** | Phụ trách TT + Thư ký |
 | 25/5 – 8/6 | Theo dõi bình chọn, tổng hợp danh sách liên tục | Thư ký |
 | 1/6 | Nhắc lại trên Zalo + đặt cúp, huy chương | Phụ trách TT + Phụ trách Giải thưởng |
 | **4/6** | **Đăng Thông báo 2** (nhắc đăng ký, sắp đóng) | Phụ trách TT |

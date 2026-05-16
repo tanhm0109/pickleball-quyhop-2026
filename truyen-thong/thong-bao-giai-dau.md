@@ -2,7 +2,7 @@
 
 ---
 
-## THÔNG BÁO 1 — Phát động giải (~25/5)
+## THÔNG BÁO 1 — Phát động giải (ngay sau khi thành lập BTC)
 
 ---
 
