@@ -2,107 +2,66 @@
 
 ---
 
-## THÔNG BÁO 1 — Phát động giải (đăng sớm, ~25/5)
-
-> *Dùng cho Zalo nhóm hội đồng hương & Facebook Page*
+## THÔNG BÁO 1 — Phát động giải (~25/5)
 
 ---
 
-🏓 **GIẢI PICKLEBALL GIAO LƯU**
-**HỘI ĐỒNG HƯƠNG QUỲ HỢP KHU VỰC PHÍA BẮC — 2026**
+🏓 **GIẢI PICKLEBALL GIAO LƯU — HĐH QUỲ HỢP PHÍA BẮC**
+📅 Thứ Bảy, **13/6/2026**
 
-Xin chào toàn thể bà con đồng hương! 👋
+Bà con ơi, BTC tổ chức giải Pickleball giao lưu cho đồng hương mình!
+Thi đấu đôi + tiệc bia giao lưu sau giải 🍺
 
-Ban Tổ chức trân trọng thông báo: chúng ta sẽ cùng nhau tổ chức **Giải Pickleball Giao Lưu** — một hoạt động thể thao kết hợp gặp gỡ, gắn kết tình đồng hương!
+**Ai được tham gia?**
+Người gốc Quỳ Hợp, con cháu, dâu/rể, người yêu — đang sống/làm việc tại Hà Nội & khu vực phía Bắc.
+*(Chưa biết chơi cũng không sao, BTC sẽ chia đội phù hợp!)*
 
-📅 **Thời gian:** Thứ Bảy, ngày 13/6/2026
-🎯 **Nội dung:** Thi đấu đôi (doubles) Pickleball
-🍺 **Sau giải:** Giao lưu tiệc bia
+📲 **Đăng ký:** Bình chọn trong cuộc thăm dò bên dưới 👇
+BTC sẽ nhắn lại để xác nhận.
 
----
-
-**✅ AI ĐƯỢC THAM GIA?**
-
-Bà con đang sinh sống, học tập, làm việc tại **Hà Nội và khu vực phía Bắc** thuộc một trong các diện:
-- Người gốc Quỳ Hợp
-- Con cháu người Quỳ Hợp
-- Dâu / Rể của người Quỳ Hợp
-- Người yêu của người Quỳ Hợp
-
-*(Chưa biết chơi Pickleball không sao — cứ đăng ký, BTC sẽ chia đội phù hợp!)*
+Tag đồng hương mình vào nhé bà con! 🙌
 
 ---
 
-**📲 ĐĂNG KÝ THAM GIA:**
-Bình chọn **"Tham gia"** ngay trong cuộc thăm dò bên dưới 👇
-
-*(BTC sẽ liên hệ xác nhận với các bạn sau)*
+## THÔNG BÁO 2 — Nhắc đăng ký (~4/6)
 
 ---
 
-Hãy tag ngay bạn bè đồng hương mình biết nhé! 🙌
-**Cùng nhau — Cùng chơi — Cùng vui!**
+⏰ **CÒN 4 NGÀY ĐĂNG KÝ GIẢI PICKLEBALL!**
 
-*Ban Tổ chức Giải Pickleball HĐH Quỳ Hợp Phía Bắc*
+Chưa đăng ký thì bình chọn ngay bên dưới nhé bà con 👇 — **đóng đăng ký ngày 8/6**.
 
----
-
-## THÔNG BÁO 2 — Nhắc đăng ký (đăng ~4/6)
-
-> *Đăng khi sắp đóng đăng ký*
+Ai đăng ký rồi thì giúp BTC tag thêm đồng hương mình biết với! 🙏
 
 ---
 
-🏓 **ĐĂNG KÝ GIẢI PICKLEBALL — CÒN VÀI NGÀY!**
-
-Bà con đồng hương ơi! Còn **4 ngày nữa** là đóng đăng ký rồi 🔔
-
-Giải **Pickleball Giao Lưu HĐH Quỳ Hợp Phía Bắc** sẽ diễn ra vào **Thứ Bảy 13/6/2026**.
-
-Chưa đăng ký? Bình chọn ngay trong cuộc thăm dò 👇 — chỉ mất 5 giây!
-
-*(Đã đăng ký rồi thì giúp BTC chia sẻ bài này cho đồng hương mình nhé!)*
+## THÔNG BÁO 3 — Lịch thi đấu chính thức (~11/6)
 
 ---
 
-## THÔNG BÁO 3 — Thông báo chính thức ngày thi đấu (đăng ~11/6)
+🏓 **LỊCH THI ĐẤU CHÍNH THỨC — GIẢI PICKLEBALL 13/6/2026**
 
-> *Sau khi chia đội xong, đăng 2 ngày trước giải*
+📍 **Địa điểm:** *(cập nhật)*
+⏰ **Tập trung:** *(cập nhật)* | **Khai mạc:** *(cập nhật)*
+🎽 Trang phục thoải mái, năng động
 
----
+**Danh sách cặp đôi thi đấu:** *(đính kèm)*
 
-🏓 **CHÍNH THỨC: LỊCH THI ĐẤU GIẢI PICKLEBALL 13/6/2026**
+🍺 **Tiệc bia giao lưu:** ngay sau thi đấu tại *(địa điểm)*
 
-Bà con đồng hương thân mến!
-
-Ban Tổ chức thông báo lịch thi đấu chính thức:
-
-📅 **Ngày:** Thứ Bảy, 13/6/2026
-📍 **Địa điểm:** *(cập nhật sau khi xác nhận sân)*
-⏰ **Giờ tập trung:** *(cập nhật)*
-⏰ **Giờ khai mạc:** *(cập nhật)*
-🎽 **Trang phục:** Thoải mái, năng động
-
-**Danh sách các cặp đôi thi đấu:** *(đính kèm hoặc link)*
-
-🍺 **Tiệc bia giao lưu:** Ngay sau khi kết thúc thi đấu, tại *(địa điểm)*
-
-Mọi thắc mắc liên hệ BTC: **[Tên] — [SĐT]**
-
-**Hẹn gặp bà con vào thứ Bảy!** 🎉
+Thắc mắc liên hệ BTC: **[Tên] — [SĐT]**
+Hẹn gặp bà con thứ Bảy! 🎉
 
 ---
 
 ## Mẫu bình chọn Zalo
 
-> *Tạo cuộc thăm dò trong nhóm Zalo với nội dung sau:*
+**Tiêu đề:** Đăng ký Giải Pickleball HĐH Quỳ Hợp — 13/6/2026
 
-**Tiêu đề:** Đăng ký tham gia Giải Pickleball HĐH Quỳ Hợp — 13/6/2026
-
-**Các lựa chọn:**
-- ✅ Tôi tham gia (thi đấu)
-- 👀 Tôi tham dự cổ vũ + tiệc bia (không thi đấu)
+**Lựa chọn:**
+- ✅ Tôi tham gia thi đấu
+- 👀 Tôi đến cổ vũ + tiệc bia (không thi đấu)
 - ❌ Lần này tôi chưa tham gia được
 
 **Ghi chú kèm theo:**
-> Bà con bình chọn để BTC nắm danh sách nhé! BTC sẽ nhắn riêng để xác nhận thông tin chi tiết với từng người đăng ký thi đấu.
+> Bà con bình chọn để BTC nắm số lượng nhé! BTC sẽ nhắn riêng xác nhận với từng người đăng ký thi đấu.
