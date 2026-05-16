@@ -45,7 +45,7 @@ Người đủ điều kiện tham gia là những người **đang sinh sống,
 ### 2.2 Truyền thông & Kêu gọi đăng ký
 
 - Đăng tải thông tin qua **Zalo** (nhóm hội đồng hương)
-- Tạo và phân phối **form đăng ký** (Google Form hoặc tương đương)
+- **Đăng ký qua bình chọn Zalo** (không dùng form riêng)
 - Đăng tin trên **Facebook Page** của hội đồng hương
 
 ### 2.3 Tổ chức tiệc bia giao lưu
@@ -59,18 +59,15 @@ Người đủ điều kiện tham gia là những người **đang sinh sống,
 
 ```
 pickleball-quyhop-2026/
-├── CLAUDE.md                  # Tài liệu tổng quan dự án (file này)
+├── CLAUDE.md                        # Tài liệu tổng quan dự án (file này)
 ├── docs/
-│   ├── ke-hoach-to-chuc.md   # Kế hoạch chi tiết tổ chức
-│   ├── the-le-giai.md        # Thể lệ và điều lệ giải đấu
-│   └── du-toan-kinh-phi.md   # Dự toán kinh phí
+│   ├── ke-hoach-trien-khai.md      # Kế hoạch & timeline triển khai
+│   └── the-le-giai.md              # Thể lệ và điều lệ giải đấu
 ├── truyen-thong/
-│   ├── noi-dung-zalo.md      # Nội dung đăng Zalo
-│   ├── noi-dung-facebook.md  # Nội dung đăng Facebook
-│   └── form-dang-ky.md       # Cấu trúc form đăng ký
+│   └── thong-bao-giai-dau.md       # Nội dung thông báo (Zalo, Facebook)
 └── van-hanh/
-    ├── danh-sach-dang-ky.md  # Danh sách người đăng ký
-    └── lich-thi-dau.md       # Lịch thi đấu chi tiết
+    ├── bang-phan-cong-btc.md       # Phân công BTC + bảng công việc
+    └── danh-sach-dang-ky.md        # Danh sách người đăng ký (cập nhật dần)
 ```
 
 ---
