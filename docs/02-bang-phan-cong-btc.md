@@ -31,8 +31,8 @@
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
 | 1.1 | Tạo cuộc bình chọn trên Zalo nhóm | Ngay sau họp BTC lần 1 | ⬜ |
-| 1.2 | Theo dõi & tổng hợp danh sách người bình chọn "Tham gia" | Liên tục đến 8/6 | ⬜ |
-| 1.3 | Nhắn riêng xác nhận từng người đăng ký (tên, tuổi, trình độ) | Đến 9/6 | ⬜ |
+| 1.2 | Theo dõi & tổng hợp danh sách người bình chọn thi đấu (kèm level) | Liên tục đến 8/6 | ⬜ |
+| 1.3 | Nhắn riêng xác nhận từng người đăng ký (họ tên, SĐT, xác nhận level) | Đến 9/6 | ⬜ |
 | 1.4 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 9/6 | ⬜ |
 | 1.5 | Gửi xác nhận lại cho từng người sau khi có lịch | 11/6 | ⬜ |
 

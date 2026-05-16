@@ -54,14 +54,28 @@ Hẹn gặp bà con thứ Bảy! 🎉
 
 ---
 
+## Phân loại level
+
+| Level | Tên gọi | Tiêu chí |
+|-------|---------|----------|
+| 🟢 | **Newbie** | Dưới 3 tháng — mới tập, đang học luật và kỹ thuật cơ bản |
+| 🟡 | **Phong trào** | 3–12 tháng — đã chơi được, hiểu luật, đánh giao lưu thường xuyên |
+| 🔴 | **Nâng cao** | Trên 12 tháng — có kinh nghiệm thi đấu, kỹ thuật ổn định |
+
+*BTC dùng thông tin level để ghép cặp đôi cân bằng giữa các trình độ.*
+
+---
+
 ## Mẫu bình chọn Zalo
 
 **Tiêu đề:** Đăng ký Giải Pickleball HĐH Quỳ Hợp — 13/6/2026
 
 **Lựa chọn:**
-- ✅ Tôi tham gia thi đấu
-- 👀 Tôi đến cổ vũ + tiệc bia (không thi đấu)
-- ❌ Lần này tôi chưa tham gia được
+- 🟢 Thi đấu | Newbie (dưới 3 tháng)
+- 🟡 Thi đấu | Phong trào (3–12 tháng)
+- 🔴 Thi đấu | Nâng cao (trên 12 tháng)
+- 👀 Cổ vũ + tiệc bia (không thi đấu)
+- ❌ Lần này chưa tham gia được
 
 **Ghi chú kèm theo:**
-> Bà con bình chọn để BTC nắm số lượng nhé! BTC sẽ nhắn riêng xác nhận với từng người đăng ký thi đấu.
+> Bà con chọn đúng mục thi đấu theo trình độ của mình nhé — BTC dùng thông tin này để ghép cặp cho cân bằng! BTC sẽ nhắn riêng để xác nhận với từng người đăng ký thi đấu.
