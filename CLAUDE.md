@@ -1,6 +1,6 @@
 # Giải Pickleball Hội Đồng Hương Quỳ Hợp 2026
 
-## Tổng quan dự án
+## Tổng quan giải đấu
 
 Dự án tổ chức giải pickleball giao lưu dành cho hội viên và người thân của **Hội Đồng Hương Quỳ Hợp Khu Vực Phía Bắc**, nhằm tạo cơ hội giao lưu thể thao, gắn kết tinh thần đồng hương và thúc đẩy cơ hội hợp tác.
 
@@ -33,7 +33,7 @@ Người đủ điều kiện tham gia là những người **đang sinh sống,
 
 ---
 
-## 2. Phạm vi dự án
+## 2. Phạm vi giải đấu
 
 ### 2.1 Tổ chức giải đấu
 
@@ -55,11 +55,11 @@ Người đủ điều kiện tham gia là những người **đang sinh sống,
 
 ---
 
-## 3. Cấu trúc dự án
+## 3. Cấu trúc tài liệu
 
 ```
 pickleball-quyhop-2026/
-├── CLAUDE.md                            # Tài liệu tổng quan dự án (file này)
+├── CLAUDE.md                            # Tài liệu tổng quan giải đấu (file này)
 └── docs/
     ├── 01-ke-hoach-trien-khai.md       # Kế hoạch & timeline triển khai
     ├── 02-bang-phan-cong-btc.md        # Phân công BTC + bảng công việc
