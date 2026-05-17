@@ -99,7 +99,7 @@
 
 ### 6. Điều hành thi đấu (ngày 13/6)
 
-**Phụ trách:** Nguyễn Hồng Trung Kiên + Vũ Linh + Nguyễn Anh Tuấn (vai trò 2, 6, 7)
+**Phụ trách:** Nguyễn Hồng Trung Kiên + Hoàng Minh Thắng + Vũ Linh + Nguyễn Anh Tuấn (vai trò 2, 3, 6, 7)
 
 | # | Công việc | Thời điểm |
 |---|-----------|-----------|
