@@ -23,19 +23,19 @@ Tag đồng hương mình vào nhé bà con! 🙌
 
 ---
 
-## THÔNG BÁO 2 — Nhắc đăng ký (~4/6)
+## THÔNG BÁO 2 — Nhắc đăng ký (~20/5)
 
 ---
 
-⏰ **CÒN 4 NGÀY ĐĂNG KÝ GIẢI PICKLEBALL!**
+⏰ **CÒN VÀI NGÀY ĐĂNG KÝ GIẢI PICKLEBALL!**
 
-Chưa đăng ký thì bình chọn ngay bên dưới nhé bà con 👇 — **đóng đăng ký ngày 8/6**.
+Chưa đăng ký thì bình chọn ngay bên dưới nhé bà con 👇 — **đóng đăng ký ngày 23/5**.
 
 Ai đăng ký rồi thì giúp BTC tag thêm đồng hương mình biết với! 🙏
 
 ---
 
-## THÔNG BÁO 3 — Lịch thi đấu chính thức (~11/6)
+## THÔNG BÁO 3 — Lịch thi đấu chính thức (~27/5)
 
 ---
 
@@ -49,7 +49,7 @@ Ai đăng ký rồi thì giúp BTC tag thêm đồng hương mình biết với!
 
 🍺 **Tiệc bia giao lưu:** ngay sau thi đấu tại *(địa điểm)*
 
-Thắc mắc liên hệ BTC: **[Tên] — [SĐT]**
+Thắc mắc liên hệ BTC: **Nguyễn Hồng Trung Kiên — 0973358670**
 Hẹn gặp bà con thứ Bảy! 🎉
 
 ---
