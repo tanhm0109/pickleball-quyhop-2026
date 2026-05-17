@@ -14,8 +14,8 @@
 | 3 | **Thư ký / Ghi nhận đăng ký & Sân bãi** | Hoàng Minh Thắng | |
 | 4 | **Phụ trách Tiệc bia / Hậu cần & Khánh tiết** | Anh Thiêm | 0979727980 |
 | 5 | **Phụ trách Giải thưởng / Cúp** | Lê Sỹ Dũng | 0903878866 |
-| 6 | **Hỗ trợ điều hành sân (ngày thi)** | Vũ Linh | |
-| 7 | **Hỗ trợ điều hành sân (ngày thi)** | Nguyễn Anh Tuấn | |
+| 6 | **Hỗ trợ điều hành sân (ngày thi)** | Vũ Linh | 0394713053 |
+| 7 | **Hỗ trợ điều hành sân (ngày thi)** | Nguyễn Anh Tuấn | 0912682378 |
 
 ---
 
