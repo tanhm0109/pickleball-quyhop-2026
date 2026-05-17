@@ -105,8 +105,7 @@
 | 6.1 | Đón tiếp, điểm danh VĐV | Trước khai mạc |
 | 6.2 | Khai mạc giải, phổ biến thể lệ | Đúng giờ khai mạc |
 | 6.3 | Điều hành các trận thi đấu, ghi kết quả | Trong giờ thi |
-| 6.4 | Xử lý khiếu nại / sự cố phát sinh | Khi có phát sinh |
-| 6.5 | Lễ trao giải | Sau trận chung kết |
+| 6.4 | Lễ trao giải | Sau trận chung kết |
 | 6.6 | Điều phối di chuyển sang tiệc bia | Sau trao giải |
 
 ---
