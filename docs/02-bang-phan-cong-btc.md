@@ -1,7 +1,7 @@
 # Bảng phân công Ban Tổ chức
 
 **Giải Pickleball HĐH Quỳ Hợp Khu Vực Phía Bắc — 13/6/2026**
-**Ban Tổ chức: 7 thành viên chịu trách nhiệm + thành viên hỗ trợ**
+**Ban Tổ chức: 7 thành viên chịu trách nhiệm + thành viên hỗ trợ (trao đổi qua nhóm Zalo BTC)**
 
 ---
 
@@ -13,16 +13,9 @@
 | 2 | **Phó BTC / Điều hành thi đấu & Truyền thông** | Nguyễn Hồng Trung Kiên | 0973358670 |
 | 3 | **Thư ký / Ghi nhận đăng ký & Sân bãi** | Hoàng Minh Thắng | 0987838307 |
 | 4 | **Phụ trách Tiệc bia / Hậu cần & Khánh tiết** | Anh Thiêm | 0979727980 |
-| 5 | **Phụ trách Giải thưởng / Cúp** | Lê Sỹ Dũng | 0903878866 |
+| 5 | **Phụ trách Cúp** | Lê Sỹ Dũng | 0903878866 |
 | 6 | **Hỗ trợ điều hành sân (ngày thi)** | Vũ Linh | 0394713053 |
 | 7 | **Hỗ trợ điều hành sân (ngày thi)** | Nguyễn Anh Tuấn | 0912682378 |
-
-## Thành viên hỗ trợ
-
-| STT | Họ tên | Liên hệ | Ghi chú |
-|-----|--------|---------|---------|
-| 1 | *(Cập nhật)* | | |
-| 2 | *(Cập nhật)* | | |
 
 ---
 
@@ -35,9 +28,9 @@
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
 | 1.1 | Theo dõi & tổng hợp danh sách người bình chọn thi đấu (kèm level) | Liên tục đến 8/6 | ⬜ |
-| 1.3 | Nhắn riêng xác nhận từng người đăng ký (họ tên, SĐT, xác nhận level) | Đến 9/6 | ⬜ |
-| 1.4 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 9/6 | ⬜ |
-| 1.5 | Gửi xác nhận lại cho từng người sau khi có lịch | 11/6 | ⬜ |
+| 1.2 | Nhắn riêng xác nhận từng người đăng ký (họ tên, SĐT, xác nhận level) | Đến 9/6 | ⬜ |
+| 1.3 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 9/6 | ⬜ |
+| 1.4 | Gửi xác nhận lại cho từng người sau khi có lịch | 11/6 | ⬜ |
 
 ---
 
@@ -88,18 +81,14 @@
 
 ---
 
-### 5. Chuẩn bị giải thưởng & Cúp
+### 5. Chuẩn bị cúp
 
 **Phụ trách:** Lê Sỹ Dũng (vai trò 5)
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
-| 5.1 | Thống nhất với BTC về cơ cấu giải thưởng | Họp BTC lần 1 | ⬜ |
-| 5.2 | Liên hệ đặt cúp, huy chương (nếu có) | 1/6 | ⬜ |
-| 5.3 | Chuẩn bị phần thưởng (tiền thưởng / hiện vật) | 10/6 | ⬜ |
-| 5.4 | Mang cúp & giải thưởng đến sân | 13/6 sáng | ⬜ |
-
-*Gợi ý cơ cấu giải: Vô địch, Á quân, Hạng 3, Giải phong trào / tinh thần*
+| 5.1 | Liên hệ đặt cúp | 1/6 | ⬜ |
+| 5.2 | Mang cúp đến sân | 13/6 sáng | ⬜ |
 
 ---
 
@@ -113,7 +102,7 @@
 | 6.2 | Khai mạc giải, phổ biến thể lệ | Đúng giờ khai mạc |
 | 6.3 | Điều hành các trận thi đấu, ghi kết quả | Trong giờ thi |
 | 6.4 | Lễ trao giải | Sau trận chung kết |
-| 6.6 | Điều phối di chuyển sang tiệc bia | Sau trao giải |
+| 6.5 | Điều phối di chuyển sang tiệc bia | Sau trao giải |
 
 ---
 

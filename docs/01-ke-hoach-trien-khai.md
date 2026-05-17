@@ -26,7 +26,7 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 | Đến 20/5 | Khảo sát sân, báo giá, chốt địa điểm | Hoàng Minh Thắng |
 | Đến 22/5 | Đặt cọc sân | Hoàng Minh Tân + Hoàng Minh Thắng |
 | Đến 22/5 | Khảo sát địa điểm tiệc bia (gần sân) | Anh Thiêm |
-| Ngay sau họp BTC | Thống nhất cơ cấu giải thưởng, đặt cúp | Lê Sỹ Dũng |
+| Ngay sau họp BTC | Đặt cúp | Lê Sỹ Dũng |
 | Ngay sau họp – 8/6 | Theo dõi bình chọn, tổng hợp danh sách (kèm level) | Hoàng Minh Thắng |
 | **4/6** | **Đăng Thông báo 2** (nhắc đăng ký, sắp đóng) | Nguyễn Hồng Trung Kiên |
 | 4/6 – 8/6 | Chủ động nhắn riêng người chưa bình chọn | Hoàng Minh Thắng |
@@ -73,11 +73,12 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 | Hạng mục | Ghi chú |
 |----------|---------|
 | Thuê sân | Cập nhật sau khi khảo sát |
-| Cúp, huy chương | Tùy cơ cấu giải |
-| Giải thưởng | Theo quyết định BTC |
+| Cúp | Tùy số hạng mục giải |
 | Nước uống và đồ ăn nhẹ tại sân | Theo số người |
 | Tiệc bia giao lưu | Theo số người tham dự |
 | Dự phòng | ~10% tổng chi phí |
+
+*Kinh phí: HĐH tài trợ một phần, phần còn lại do người tham gia đóng góp.*
 
 ---
 
@@ -86,7 +87,7 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 - [ ] Sân đã đặt và xác nhận
 - [ ] Danh sách VĐV đã chốt, đã thông báo lịch
 - [ ] Cặp đôi đã chia xong (có cân bằng level)
-- [ ] Cúp và giải thưởng đã chuẩn bị
+- [ ] Cúp đã chuẩn bị
 - [ ] Bàn tiệc bia đã đặt
 - [ ] Nước uống và đồ ăn nhẹ tại sân đã chuẩn bị
 - [ ] BTC đã phân công cụ thể trong ngày thi
