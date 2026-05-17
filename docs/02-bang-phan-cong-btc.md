@@ -13,7 +13,7 @@
 | 2 | **Phó BTC / Điều hành thi đấu & Truyền thông** | Nguyễn Hồng Trung Kiên | 0973358670 |
 | 3 | **Thư ký / Ghi nhận đăng ký & Sân bãi** | Hoàng Minh Thắng | 0987838307 |
 | 4 | **Phụ trách Tiệc bia / Hậu cần & Khánh tiết** | Anh Thiêm | 0979727980 |
-| 5 | **Phụ trách Cúp** | Lê Sỹ Dũng | 0903878866 |
+| 5 | **Phụ trách Giải thưởng (Huy chương & Tiền thưởng)** | Lê Sỹ Dũng | 0903878866 |
 | 6 | **Hỗ trợ điều hành sân (ngày thi)** | Vũ Linh | 0394713053 |
 | 7 | **Hỗ trợ điều hành sân (ngày thi)** | Nguyễn Anh Tuấn | 0912682378 |
 | 8 | **Thành viên BTC — Cố vấn & Hỗ trợ** | *(Trao đổi qua nhóm Zalo BTC)* | |
@@ -31,9 +31,9 @@
 | 1.1 | Thiết kế poster/ảnh thông báo giải | Trước khi có BTC | ⬜ |
 | 1.2 | Tạo cuộc bình chọn trên Zalo nhóm | Ngay sau khi có BTC | ⬜ |
 | 1.3 | Đăng Thông báo 1 (phát động) lên Zalo + Facebook | Ngay sau khi có BTC | ⬜ |
-| 1.4 | Ghim bài + nhắc lại trên Zalo nhóm | 1/6 | ⬜ |
-| 1.5 | Đăng Thông báo 2 (nhắc đăng ký — sắp đóng) | 27/5 | ⬜ |
-| 1.6 | Đăng Thông báo 3 (lịch thi đấu chính thức) | 4/6 | ⬜ |
+| 1.4 | Ghim bài + nhắc lại trên Zalo nhóm | 20/5 | ⬜ |
+| 1.5 | Đăng Thông báo 2 (nhắc đăng ký — sắp đóng) | 20/5 | ⬜ |
+| 1.6 | Đăng Thông báo 3 (lịch thi đấu chính thức) | 27/5 | ⬜ |
 | 1.7 | Chụp ảnh / quay video trong ngày thi, đăng recap | 6–7/6 | ⬜ |
 
 ---
@@ -44,10 +44,10 @@
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
-| 2.1 | Theo dõi & tổng hợp danh sách người bình chọn thi đấu (kèm level) | Liên tục đến 1/6 | ⬜ |
-| 2.2 | Nhắn riêng xác nhận từng người đăng ký (họ tên, SĐT, xác nhận level) | Đến 2/6 | ⬜ |
-| 2.3 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 2/6 | ⬜ |
-| 2.4 | Gửi xác nhận lại cho từng người sau khi có lịch | 4/6 | ⬜ |
+| 2.1 | Theo dõi & tổng hợp danh sách người bình chọn thi đấu (kèm level) | Liên tục đến 23/5 | ⬜ |
+| 2.2 | Nhắn riêng xác nhận từng người đăng ký (họ tên, SĐT, xác nhận level) | Đến 24/5 | ⬜ |
+| 2.3 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 24/5 | ⬜ |
+| 2.4 | Gửi xác nhận lại cho từng người sau khi có lịch | 20/5 | ⬜ |
 
 ---
 
@@ -82,14 +82,15 @@
 
 ---
 
-### 5. Chuẩn bị cúp
+### 5. Chuẩn bị giải thưởng
 
 **Phụ trách:** Lê Sỹ Dũng (vai trò 5)
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
-| 5.1 | Liên hệ đặt cúp | 1/6 | ⬜ |
-| 5.2 | Mang cúp đến sân | 6/6 sáng | ⬜ |
+| 5.1 | Đặt huy chương | Ngay sau khi có BTC | ⬜ |
+| 5.2 | Chuẩn bị phong bì tiền thưởng | 5/6 | ⬜ |
+| 5.3 | Mang huy chương & tiền thưởng đến sân | 6/6 sáng | ⬜ |
 
 ---
 

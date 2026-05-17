@@ -9,12 +9,12 @@
 ```
 GIAI ĐOẠN 1                      GIAI ĐOẠN 2           GIAI ĐOẠN 3
 Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày thi đấu
-(đến 1/6)                        (2/6 – 5/6)            (6/6)
+(đến 23/5)                       (24/5 – 5/6)           (6/6)
 ```
 
 ---
 
-## GIAI ĐOẠN 1: Chuẩn bị & Mở đăng ký (Đến 1/6/2026)
+## GIAI ĐOẠN 1: Chuẩn bị & Mở đăng ký (Đến 23/5/2026)
 
 **Mục tiêu:** Song song vừa chuẩn bị hậu cần vừa phát động đăng ký sớm để có đủ thời gian thu hút người tham gia
 
@@ -23,31 +23,30 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 | Đến 18/5 | Xác nhận 7 thành viên BTC, phân vai trò | Hoàng Minh Tân |
 | **Ngay sau khi có BTC** | **Tạo bình chọn Zalo + đăng Thông báo 1 (phát động)** | Nguyễn Hồng Trung Kiên |
 | Đến 20/5 | Khảo sát sân, báo giá, chốt địa điểm | Hoàng Minh Thắng |
-| Đến 22/5 | Đặt cọc sân | Hoàng Minh Thắng |
-| Đến 22/5 | Khảo sát địa điểm tiệc bia (gần sân) | Anh Thiêm |
-| Ngay sau khi có BTC | Đặt cúp | Lê Sỹ Dũng |
-| Ngay sau khi có BTC – 1/6 | Theo dõi bình chọn, tổng hợp danh sách (kèm level) | Hoàng Minh Thắng |
-| **27/5** | **Đăng Thông báo 2** (nhắc đăng ký, sắp đóng) | Nguyễn Hồng Trung Kiên |
-| 27/5 – 1/6 | Chủ động nhắn riêng người chưa bình chọn | Hoàng Minh Thắng |
-| **1/6** | **Đóng đăng ký** — chốt danh sách sơ bộ | Hoàng Minh Thắng |
+| Đến 20/5 | Đặt cọc sân | Hoàng Minh Thắng |
+| Đến 20/5 | Khảo sát địa điểm tiệc bia (gần sân) | Anh Thiêm |
+| Ngay sau khi có BTC | Đặt huy chương, chuẩn bị tiền thưởng | Lê Sỹ Dũng |
+| **20/5** | **Đăng Thông báo 2** (nhắc đăng ký, sắp đóng) | Nguyễn Hồng Trung Kiên |
+| 20–23/5 | Chủ động nhắn riêng người chưa bình chọn | Hoàng Minh Thắng |
+| **23/5 (T7)** | **Đóng đăng ký** — chốt danh sách | Hoàng Minh Thắng |
 
 ---
 
-## GIAI ĐOẠN 2: Chốt danh sách & Chuẩn bị ngày thi (2/6 – 5/6/2026)
+## GIAI ĐOẠN 2: Chốt danh sách & Chuẩn bị ngày thi (24/5 – 5/6/2026)
 
 **Mục tiêu:** Chia đội, lên lịch, hoàn tất hậu cần — sẵn sàng 100% cho ngày thi
 
 | Ngày | Công việc | Người phụ trách |
 |------|-----------|-----------------|
-| 2/6 | Xác nhận thông tin từng người đăng ký, chốt danh sách | Hoàng Minh Thắng |
-| 2–3/6 | **Họp BTC:** chia đội / ghép cặp theo level | Hoàng Minh Tân + Nguyễn Hồng Trung Kiên |
-| 3/6 | Xác nhận số người tham dự tiệc với Thư ký, đặt bàn | Anh Thiêm |
-| 3/6 | Xác nhận lại lịch với sân | Hoàng Minh Thắng |
-| **4/6** | **Đăng Thông báo 3** (lịch chính thức, danh sách cặp đôi) | Nguyễn Hồng Trung Kiên |
-| 4/6 | Gửi lịch thi đấu đến từng người tham gia | Hoàng Minh Thắng |
+| 24/5 | Xác nhận thông tin từng người đăng ký, chốt danh sách cuối | Hoàng Minh Thắng |
+| 24–25/5 | **Họp BTC:** chia đội / ghép cặp theo level | Hoàng Minh Tân + Nguyễn Hồng Trung Kiên |
+| 26/5 | Xác nhận số người tham dự tiệc với Thư ký, đặt bàn | Anh Thiêm |
+| 26/5 | Xác nhận lại lịch với sân | Hoàng Minh Thắng |
+| **27/5** | **Đăng Thông báo 3** (lịch chính thức, danh sách cặp đôi) | Nguyễn Hồng Trung Kiên |
+| 27/5 | Gửi lịch thi đấu đến từng người tham gia | Hoàng Minh Thắng |
 | 5/6 | Chuẩn bị nước uống và đồ ăn nhẹ tại sân | Anh Thiêm |
 | 5/6 | Xác nhận lại nhà hàng/quán bia | Anh Thiêm |
-| 5/6 | Chuẩn bị cúp, phong bì | Lê Sỹ Dũng |
+| 5/6 | Chuẩn bị huy chương, phong bì tiền thưởng | Lê Sỹ Dũng |
 
 ---
 
@@ -72,7 +71,7 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 | Hạng mục | Ghi chú |
 |----------|---------|
 | Thuê sân | Cập nhật sau khi khảo sát |
-| Cúp | Tùy số hạng mục giải |
+| Huy chương & Tiền thưởng | Theo quyết định BTC |
 | Nước uống và đồ ăn nhẹ tại sân | Theo số người |
 | Tiệc bia giao lưu | Theo số người tham dự |
 | Dự phòng | ~10% tổng chi phí |
@@ -86,7 +85,7 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 - [ ] Sân đã đặt và xác nhận
 - [ ] Danh sách VĐV đã chốt, đã thông báo lịch
 - [ ] Cặp đôi đã chia xong (có cân bằng level)
-- [ ] Cúp đã chuẩn bị
+- [ ] Huy chương và tiền thưởng đã chuẩn bị
 - [ ] Bàn tiệc bia đã đặt
 - [ ] Nước uống và đồ ăn nhẹ tại sân đã chuẩn bị
 - [ ] BTC đã phân công cụ thể trong ngày thi
