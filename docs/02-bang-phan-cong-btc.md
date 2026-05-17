@@ -90,8 +90,7 @@
 | 5.1 | Thống nhất với BTC về cơ cấu giải thưởng | Họp BTC lần 1 | ⬜ |
 | 5.2 | Liên hệ đặt cúp, huy chương (nếu có) | 1/6 | ⬜ |
 | 5.3 | Chuẩn bị phần thưởng (tiền thưởng / hiện vật) | 10/6 | ⬜ |
-| 5.4 | Chuẩn bị bằng khen / giấy chứng nhận (nếu có) | 11/6 | ⬜ |
-| 5.5 | Mang cúp & giải thưởng đến sân | 13/6 sáng | ⬜ |
+| 5.4 | Mang cúp & giải thưởng đến sân | 13/6 sáng | ⬜ |
 
 *Gợi ý cơ cấu giải: Vô địch, Á quân, Hạng 3, Giải phong trào / tinh thần*
 
