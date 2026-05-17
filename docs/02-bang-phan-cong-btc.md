@@ -32,9 +32,9 @@
 | 1.2 | Tạo cuộc bình chọn trên Zalo nhóm | Ngay sau khi có BTC | ⬜ |
 | 1.3 | Đăng Thông báo 1 (phát động) lên Zalo + Facebook | Ngay sau khi có BTC | ⬜ |
 | 1.4 | Ghim bài + nhắc lại trên Zalo nhóm | 1/6 | ⬜ |
-| 1.5 | Đăng Thông báo 2 (nhắc đăng ký — sắp đóng) | 4/6 | ⬜ |
-| 1.6 | Đăng Thông báo 3 (lịch thi đấu chính thức) | 11/6 | ⬜ |
-| 1.7 | Chụp ảnh / quay video trong ngày thi, đăng recap | 13–14/6 | ⬜ |
+| 1.5 | Đăng Thông báo 2 (nhắc đăng ký — sắp đóng) | 27/5 | ⬜ |
+| 1.6 | Đăng Thông báo 3 (lịch thi đấu chính thức) | 4/6 | ⬜ |
+| 1.7 | Chụp ảnh / quay video trong ngày thi, đăng recap | 6–7/6 | ⬜ |
 
 ---
 
@@ -44,10 +44,10 @@
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
-| 2.1 | Theo dõi & tổng hợp danh sách người bình chọn thi đấu (kèm level) | Liên tục đến 8/6 | ⬜ |
-| 2.2 | Nhắn riêng xác nhận từng người đăng ký (họ tên, SĐT, xác nhận level) | Đến 9/6 | ⬜ |
-| 2.3 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 9/6 | ⬜ |
-| 2.4 | Gửi xác nhận lại cho từng người sau khi có lịch | 11/6 | ⬜ |
+| 2.1 | Theo dõi & tổng hợp danh sách người bình chọn thi đấu (kèm level) | Liên tục đến 1/6 | ⬜ |
+| 2.2 | Nhắn riêng xác nhận từng người đăng ký (họ tên, SĐT, xác nhận level) | Đến 2/6 | ⬜ |
+| 2.3 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 2/6 | ⬜ |
+| 2.4 | Gửi xác nhận lại cho từng người sau khi có lịch | 4/6 | ⬜ |
 
 ---
 
@@ -60,8 +60,8 @@
 | 3.1 | Khảo sát 2–3 sân Pickleball phù hợp tại HN | 20/5 | ⬜ |
 | 3.2 | Báo giá & xác nhận số sân cần thiết với Trưởng BTC | 22/5 | ⬜ |
 | 3.3 | Đặt cọc / ký xác nhận sân | 22/5 | ⬜ |
-| 3.4 | Xác nhận lại với sân trước ngày thi 3 ngày | 10/6 | ⬜ |
-| 3.5 | Có mặt tại sân sớm để kiểm tra chuẩn bị | 13/6 sáng | ⬜ |
+| 3.4 | Xác nhận lại với sân trước ngày thi 3 ngày | 3/6 | ⬜ |
+| 3.5 | Có mặt tại sân sớm để kiểm tra chuẩn bị | 6/6 sáng | ⬜ |
 
 *Lưu ý: Ước tính số sân = (số cặp đôi / 2), làm tròn lên + 1 sân dự phòng*
 
@@ -74,11 +74,11 @@
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
 | 4.1 | Khảo sát địa điểm tổ chức tiệc bia (gần sân) | 22/5 | ⬜ |
-| 4.2 | Xác nhận số người tham dự tiệc với Thư ký | 10/6 | ⬜ |
-| 4.3 | Đặt bàn / đặt cọc nhà hàng/quán bia | 10/6 | ⬜ |
-| 4.4 | Chuẩn bị nước uống và đồ ăn nhẹ cho ngày thi đấu | 12/6 | ⬜ |
-| 4.5 | Xác nhận lại với nhà hàng trước 1 ngày | 12/6 | ⬜ |
-| 4.6 | Điều phối di chuyển từ sân → địa điểm tiệc | 13/6 | ⬜ |
+| 4.2 | Xác nhận số người tham dự tiệc với Thư ký | 3/6 | ⬜ |
+| 4.3 | Đặt bàn / đặt cọc nhà hàng/quán bia | 3/6 | ⬜ |
+| 4.4 | Chuẩn bị nước uống và đồ ăn nhẹ cho ngày thi đấu | 5/6 | ⬜ |
+| 4.5 | Xác nhận lại với nhà hàng trước 1 ngày | 5/6 | ⬜ |
+| 4.6 | Điều phối di chuyển từ sân → địa điểm tiệc | 6/6 | ⬜ |
 
 ---
 
@@ -89,7 +89,7 @@
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
 | 5.1 | Liên hệ đặt cúp | 1/6 | ⬜ |
-| 5.2 | Mang cúp đến sân | 13/6 sáng | ⬜ |
+| 5.2 | Mang cúp đến sân | 6/6 sáng | ⬜ |
 
 ---
 

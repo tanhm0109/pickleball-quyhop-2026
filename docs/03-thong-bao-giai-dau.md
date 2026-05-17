@@ -7,7 +7,7 @@
 ---
 
 🏓 **GIẢI PICKLEBALL GIAO LƯU — HĐH QUỲ HỢP PHÍA BẮC**
-📅 Thứ Bảy, **13/6/2026**
+📅 Thứ Bảy, **6/6/2026**
 
 Ban Tổ chức trân trọng thông báo: **Giải Pickleball Giao Lưu HĐH Quỳ Hợp Khu Vực Phía Bắc** sẽ chính thức được tổ chức!
 Nội dung: thi đấu đôi + tiệc bia giao lưu sau giải 🍺
@@ -39,7 +39,7 @@ Ai đăng ký rồi thì giúp BTC tag thêm đồng hương mình biết với!
 
 ---
 
-🏓 **LỊCH THI ĐẤU CHÍNH THỨC — GIẢI PICKLEBALL 13/6/2026**
+🏓 **LỊCH THI ĐẤU CHÍNH THỨC — GIẢI PICKLEBALL 6/6/2026**
 
 📍 **Địa điểm:** *(cập nhật)*
 ⏰ **Tập trung:** *(cập nhật)* | **Khai mạc:** *(cập nhật)*
@@ -68,7 +68,7 @@ Hẹn gặp bà con thứ Bảy! 🎉
 
 ## Mẫu bình chọn Zalo
 
-**Tiêu đề:** Đăng ký Giải Pickleball HĐH Quỳ Hợp — 13/6/2026
+**Tiêu đề:** Đăng ký Giải Pickleball HĐH Quỳ Hợp — 6/6/2026
 
 **Lựa chọn:**
 - 🟢 Thi đấu | Newbie (dưới 3 tháng)
