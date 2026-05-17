@@ -42,6 +42,7 @@ files = [
     ("CLAUDE.md", "pdf/00-tong-quan-du-an.pdf"),
     ("docs/01-ke-hoach-trien-khai.md", "pdf/01-ke-hoach-trien-khai.pdf"),
     ("docs/02-bang-phan-cong-btc.md", "pdf/02-bang-phan-cong-btc.pdf"),
+    ("docs/03-thong-bao-giai-dau.md", "pdf/03-thong-bao-giai-dau.pdf"),
 ]
 
 os.makedirs("pdf", exist_ok=True)
