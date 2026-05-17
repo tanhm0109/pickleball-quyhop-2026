@@ -22,48 +22,48 @@
 
 ## Bảng công việc chi tiết theo đầu mục
 
-### 1. Ghi nhận đăng ký
-
-**Phụ trách:** Hoàng Minh Thắng (vai trò 3)
-
-| # | Công việc | Deadline | Trạng thái |
-|---|-----------|----------|------------|
-| 1.1 | Theo dõi & tổng hợp danh sách người bình chọn thi đấu (kèm level) | Liên tục đến 8/6 | ⬜ |
-| 1.2 | Nhắn riêng xác nhận từng người đăng ký (họ tên, SĐT, xác nhận level) | Đến 9/6 | ⬜ |
-| 1.3 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 9/6 | ⬜ |
-| 1.4 | Gửi xác nhận lại cho từng người sau khi có lịch | 11/6 | ⬜ |
-
----
-
-### 2. Đặt sân
-
-**Phụ trách:** Hoàng Minh Thắng (vai trò 3)
-
-| # | Công việc | Deadline | Trạng thái |
-|---|-----------|----------|------------|
-| 2.1 | Khảo sát 2–3 sân Pickleball phù hợp tại HN | 20/5 | ⬜ |
-| 2.2 | Báo giá & xác nhận số sân cần thiết với Trưởng BTC | 22/5 | ⬜ |
-| 2.3 | Đặt cọc / ký xác nhận sân | 22/5 | ⬜ |
-| 2.4 | Xác nhận lại với sân trước ngày thi 3 ngày | 10/6 | ⬜ |
-| 2.5 | Có mặt tại sân sớm để kiểm tra chuẩn bị | 13/6 sáng | ⬜ |
-
-*Lưu ý: Ước tính số sân = (số cặp đôi / 2), làm tròn lên + 1 sân dự phòng*
-
----
-
-### 3. Truyền thông & Thông báo
+### 1. Truyền thông & Thông báo
 
 **Phụ trách:** Nguyễn Hồng Trung Kiên (vai trò 2)
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
-| 3.1 | Thiết kế poster/ảnh thông báo giải | Trước họp BTC lần 1 | ⬜ |
-| 3.2 | Tạo cuộc bình chọn trên Zalo nhóm | Ngay sau họp BTC lần 1 | ⬜ |
-| 3.3 | Đăng Thông báo 1 (phát động) lên Zalo + Facebook | Ngay sau họp BTC lần 1 | ⬜ |
-| 3.4 | Ghim bài + nhắc lại trên Zalo nhóm | 1/6 | ⬜ |
-| 3.5 | Đăng Thông báo 2 (nhắc đăng ký — sắp đóng) | 4/6 | ⬜ |
-| 3.6 | Đăng Thông báo 3 (lịch thi đấu chính thức) | 11/6 | ⬜ |
-| 3.7 | Chụp ảnh / quay video trong ngày thi, đăng recap | 13–14/6 | ⬜ |
+| 1.1 | Thiết kế poster/ảnh thông báo giải | Trước khi có BTC | ⬜ |
+| 1.2 | Tạo cuộc bình chọn trên Zalo nhóm | Ngay sau khi có BTC | ⬜ |
+| 1.3 | Đăng Thông báo 1 (phát động) lên Zalo + Facebook | Ngay sau khi có BTC | ⬜ |
+| 1.4 | Ghim bài + nhắc lại trên Zalo nhóm | 1/6 | ⬜ |
+| 1.5 | Đăng Thông báo 2 (nhắc đăng ký — sắp đóng) | 4/6 | ⬜ |
+| 1.6 | Đăng Thông báo 3 (lịch thi đấu chính thức) | 11/6 | ⬜ |
+| 1.7 | Chụp ảnh / quay video trong ngày thi, đăng recap | 13–14/6 | ⬜ |
+
+---
+
+### 2. Ghi nhận đăng ký
+
+**Phụ trách:** Hoàng Minh Thắng (vai trò 3)
+
+| # | Công việc | Deadline | Trạng thái |
+|---|-----------|----------|------------|
+| 2.1 | Theo dõi & tổng hợp danh sách người bình chọn thi đấu (kèm level) | Liên tục đến 8/6 | ⬜ |
+| 2.2 | Nhắn riêng xác nhận từng người đăng ký (họ tên, SĐT, xác nhận level) | Đến 9/6 | ⬜ |
+| 2.3 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 9/6 | ⬜ |
+| 2.4 | Gửi xác nhận lại cho từng người sau khi có lịch | 11/6 | ⬜ |
+
+---
+
+### 3. Đặt sân
+
+**Phụ trách:** Hoàng Minh Thắng (vai trò 3)
+
+| # | Công việc | Deadline | Trạng thái |
+|---|-----------|----------|------------|
+| 3.1 | Khảo sát 2–3 sân Pickleball phù hợp tại HN | 20/5 | ⬜ |
+| 3.2 | Báo giá & xác nhận số sân cần thiết với Trưởng BTC | 22/5 | ⬜ |
+| 3.3 | Đặt cọc / ký xác nhận sân | 22/5 | ⬜ |
+| 3.4 | Xác nhận lại với sân trước ngày thi 3 ngày | 10/6 | ⬜ |
+| 3.5 | Có mặt tại sân sớm để kiểm tra chuẩn bị | 13/6 sáng | ⬜ |
+
+*Lưu ý: Ước tính số sân = (số cặp đôi / 2), làm tròn lên + 1 sân dự phòng*
 
 ---
 
