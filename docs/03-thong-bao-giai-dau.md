@@ -4,6 +4,8 @@
 
 ## THÔNG BÁO 1 — Phát động giải (ngay sau khi thành lập BTC)
 
+> *Đăng đồng thời: Zalo nhóm HĐH + Facebook Page HĐH Quỳ Hợp Phía Bắc*
+
 ---
 
 🏓 **GIẢI PICKLEBALL GIAO LƯU — HĐH QUỲ HỢP PHÍA BẮC**
@@ -25,6 +27,8 @@ Tag đồng hương mình vào nhé bà con! 🙌
 
 ## THÔNG BÁO 2 — Nhắc đăng ký (~20/5)
 
+> *Đăng: Zalo nhóm HĐH + Facebook Page HĐH Quỳ Hợp Phía Bắc*
+
 ---
 
 ⏰ **CÒN VÀI NGÀY ĐĂNG KÝ GIẢI PICKLEBALL!**
@@ -36,6 +40,8 @@ Ai đăng ký rồi thì giúp BTC tag thêm đồng hương mình biết với!
 ---
 
 ## THÔNG BÁO 3 — Lịch thi đấu chính thức (~27/5)
+
+> *Đăng: Zalo nhóm HĐH + Facebook Page HĐH Quỳ Hợp Phía Bắc*
 
 ---
 
