@@ -20,16 +20,17 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 
 | Ngày | Công việc | Người phụ trách |
 |------|-----------|-----------------|
-| Đến 18/5 | Xác nhận 10 thành viên BTC, phân vai trò | Trưởng BTC |
+| Đến 18/5 | Xác nhận 7 thành viên BTC, phân vai trò | Hoàng Minh Tân |
 | Đến 18/5 | Họp BTC lần 1: ngân sách, cơ cấu giải thưởng, quy mô | Tất cả BTC |
-| **Ngay sau họp BTC** | **Phát động: đăng Thông báo 1 + tạo bình chọn Zalo** | Phụ trách TT + Thư ký |
-| Đến 20/5 | Khảo sát sân, báo giá, chốt địa điểm | Phụ trách Sân |
-| Đến 22/5 | Đặt cọc sân | Trưởng BTC + Phụ trách Sân |
-| 25/5 – 8/6 | Theo dõi bình chọn, tổng hợp danh sách liên tục | Thư ký |
-| 1/6 | Nhắc lại trên Zalo + đặt cúp, huy chương | Phụ trách TT + Phụ trách Giải thưởng |
-| **4/6** | **Đăng Thông báo 2** (nhắc đăng ký, sắp đóng) | Phụ trách TT |
-| 4/6 – 8/6 | Chủ động nhắn riêng người chưa bình chọn | Thư ký |
-| **8/6** | **Đóng đăng ký** — chốt danh sách sơ bộ | Thư ký |
+| **Ngay sau họp BTC** | **Tạo bình chọn Zalo + đăng Thông báo 1 (phát động)** | Nguyễn Hồng Trung Kiên |
+| Đến 20/5 | Khảo sát sân, báo giá, chốt địa điểm | Hoàng Minh Thắng |
+| Đến 22/5 | Đặt cọc sân | Hoàng Minh Tân + Hoàng Minh Thắng |
+| Đến 22/5 | Khảo sát địa điểm tiệc bia (gần sân) | Anh Thiêm |
+| Ngay sau họp BTC | Thống nhất cơ cấu giải thưởng, đặt cúp | Lê Sỹ Dũng |
+| Ngay sau họp – 8/6 | Theo dõi bình chọn, tổng hợp danh sách (kèm level) | Hoàng Minh Thắng |
+| **4/6** | **Đăng Thông báo 2** (nhắc đăng ký, sắp đóng) | Nguyễn Hồng Trung Kiên |
+| 4/6 – 8/6 | Chủ động nhắn riêng người chưa bình chọn | Hoàng Minh Thắng |
+| **8/6** | **Đóng đăng ký** — chốt danh sách sơ bộ | Hoàng Minh Thắng |
 
 ---
 
@@ -39,14 +40,15 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 
 | Ngày | Công việc | Người phụ trách |
 |------|-----------|-----------------|
-| 9/6 | Xác nhận thông tin từng người đăng ký, chốt danh sách | Thư ký |
-| 9–10/6 | **Họp BTC lần 2:** chia đội / ghép cặp | Trưởng BTC + Phó BTC |
-| 10/6 | Xác nhận số người tham dự tiệc, đặt bàn | Phụ trách Tiệc |
-| 10/6 | Xác nhận lại lịch với sân | Phụ trách Sân |
-| **11/6** | **Đăng Thông báo 3** (lịch chính thức, danh sách cặp đôi) | Phụ trách TT |
-| 11/6 | Gửi lịch thi đấu đến từng người tham gia | Thư ký |
-| 12/6 | Chuẩn bị nước uống, khăn lạnh | Phụ trách Hậu cần |
-| 12/6 | Chuẩn bị cúp, giải thưởng, phong bì | Phụ trách Giải thưởng |
+| 9/6 | Xác nhận thông tin từng người đăng ký, chốt danh sách | Hoàng Minh Thắng |
+| 9–10/6 | **Họp BTC lần 2:** chia đội / ghép cặp theo level | Hoàng Minh Tân + Nguyễn Hồng Trung Kiên |
+| 10/6 | Xác nhận số người tham dự tiệc với Thư ký, đặt bàn | Anh Thiêm |
+| 10/6 | Xác nhận lại lịch với sân | Hoàng Minh Thắng |
+| **11/6** | **Đăng Thông báo 3** (lịch chính thức, danh sách cặp đôi) | Nguyễn Hồng Trung Kiên |
+| 11/6 | Gửi lịch thi đấu đến từng người tham gia | Hoàng Minh Thắng |
+| 12/6 | Chuẩn bị nước uống và đồ ăn nhẹ tại sân | Anh Thiêm |
+| 12/6 | Xác nhận lại nhà hàng/quán bia | Anh Thiêm |
+| 12/6 | Chuẩn bị cúp, giải thưởng, phong bì | Lê Sỹ Dũng |
 
 ---
 
@@ -54,12 +56,12 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 
 | Giờ | Hoạt động | Phụ trách |
 |-----|-----------|-----------|
-| 7:00 | BTC có mặt, kiểm tra sân | Phụ trách Sân + Hậu cần |
-| 7:30 | Đón tiếp VĐV, điểm danh | Thư ký + Hỗ trợ |
-| 8:00 | **Khai mạc** — phát biểu, phổ biến thể lệ | Trưởng BTC |
-| 8:30 | **Bắt đầu thi đấu** | Phó BTC + Hỗ trợ |
-| *(TBD)* | Bán kết — Chung kết | Phó BTC |
-| *(TBD)* | **Lễ trao giải** | Trưởng BTC + Phụ trách Giải thưởng |
+| 7:00 | BTC có mặt, kiểm tra sân | Hoàng Minh Thắng + Anh Thiêm |
+| 7:30 | Đón tiếp VĐV, điểm danh | Hoàng Minh Thắng + Vũ Linh + Nguyễn Anh Tuấn |
+| 8:00 | **Khai mạc** — phát biểu, phổ biến thể lệ | Hoàng Minh Tân |
+| 8:30 | **Bắt đầu thi đấu** | Nguyễn Hồng Trung Kiên + Hoàng Minh Thắng + Vũ Linh + Nguyễn Anh Tuấn |
+| *(TBD)* | Bán kết — Chung kết | Nguyễn Hồng Trung Kiên |
+| *(TBD)* | **Lễ trao giải** | Hoàng Minh Tân + Lê Sỹ Dũng |
 | *(TBD)* | **Tiệc bia giao lưu** | Tất cả |
 
 *Giờ cụ thể cập nhật sau khi có số đội và lịch sân.*
@@ -73,7 +75,7 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 | Thuê sân | Cập nhật sau khi khảo sát |
 | Cúp, huy chương | Tùy cơ cấu giải |
 | Giải thưởng | Theo quyết định BTC |
-| Nước uống, khăn lạnh tại sân | Theo số người |
+| Nước uống và đồ ăn nhẹ tại sân | Theo số người |
 | Tiệc bia giao lưu | Theo số người tham dự |
 | Dự phòng | ~10% tổng chi phí |
 
@@ -83,8 +85,8 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 
 - [ ] Sân đã đặt và xác nhận
 - [ ] Danh sách VĐV đã chốt, đã thông báo lịch
-- [ ] Cặp đôi đã chia xong
+- [ ] Cặp đôi đã chia xong (có cân bằng level)
 - [ ] Cúp và giải thưởng đã chuẩn bị
 - [ ] Bàn tiệc bia đã đặt
-- [ ] Nước uống / hậu cần tại sân đã chuẩn bị
+- [ ] Nước uống và đồ ăn nhẹ tại sân đã chuẩn bị
 - [ ] BTC đã phân công cụ thể trong ngày thi
