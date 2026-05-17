@@ -16,15 +16,7 @@
 | 5 | **Phụ trách Cúp** | Lê Sỹ Dũng | 0903878866 |
 | 6 | **Hỗ trợ điều hành sân (ngày thi)** | Vũ Linh | 0394713053 |
 | 7 | **Hỗ trợ điều hành sân (ngày thi)** | Nguyễn Anh Tuấn | 0912682378 |
-
-## TV Cố vấn & Hỗ trợ
-
-*(Trao đổi qua nhóm Zalo BTC)*
-
-| STT | Họ tên | Ghi chú |
-|-----|--------|---------|
-| 1 | *(Cập nhật)* | |
-| 2 | *(Cập nhật)* | |
+| 8 | **Thành viên BTC — Cố vấn & Hỗ trợ** | *(Trao đổi qua nhóm Zalo BTC)* | |
 
 ---
 
