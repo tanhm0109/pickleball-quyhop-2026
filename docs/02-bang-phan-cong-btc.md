@@ -12,8 +12,8 @@
 | 1 | **Trưởng BTC** | Hoàng Minh Tân | 0902040381 |
 | 2 | **Phó BTC / Điều hành thi đấu & Truyền thông** | Nguyễn Hồng Trung Kiên | |
 | 3 | **Thư ký / Ghi nhận đăng ký & Sân bãi** | Hoàng Minh Thắng | |
-| 4 | **Phụ trách Tiệc bia / Hậu cần & Khánh tiết** | Anh Thiêm | |
-| 5 | **Phụ trách Giải thưởng / Cúp** | Lê Sỹ Dũng | |
+| 4 | **Phụ trách Tiệc bia / Hậu cần & Khánh tiết** | Anh Thiêm | 0979727980 |
+| 5 | **Phụ trách Giải thưởng / Cúp** | Lê Sỹ Dũng | 0903878866 |
 | 6 | **Hỗ trợ điều hành sân (ngày thi)** | Vũ Linh | |
 | 7 | **Hỗ trợ điều hành sân (ngày thi)** | Nguyễn Anh Tuấn | |
 
