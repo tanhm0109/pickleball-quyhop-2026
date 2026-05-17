@@ -5,7 +5,7 @@
 
 ---
 
-## TV BTC
+## Thành viên BTC
 
 | STT | Vai trò | Người phụ trách | Liên hệ |
 |-----|---------|-----------------|---------|
