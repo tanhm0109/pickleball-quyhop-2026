@@ -1,7 +1,7 @@
 # Bảng phân công Ban Tổ chức
 
 **Giải Pickleball HĐH Quỳ Hợp Khu Vực Phía Bắc — 13/6/2026**
-**Ban Tổ chức: ~10 người**
+**Ban Tổ chức: 7 người**
 
 ---
 
@@ -9,16 +9,13 @@
 
 | STT | Vai trò | Người phụ trách | Liên hệ |
 |-----|---------|-----------------|---------|
-| 1 | **Trưởng BTC** | *(Cập nhật)* | |
-| 2 | **Phó BTC / Điều hành thi đấu** | *(Cập nhật)* | |
-| 3 | **Thư ký — Ghi nhận đăng ký** | *(Cập nhật)* | |
-| 4 | **Phụ trách Sân bãi** | *(Cập nhật)* | |
-| 5 | **Phụ trách Truyền thông** | *(Cập nhật)* | |
-| 6 | **Phụ trách Tiệc bia / Hậu cần** | *(Cập nhật)* | |
-| 7 | **Phụ trách Giải thưởng / Cúp** | *(Cập nhật)* | |
-| 8 | **Hỗ trợ điều hành sân (ngày thi)** | *(Cập nhật)* | |
-| 9 | **Hỗ trợ điều hành sân (ngày thi)** | *(Cập nhật)* | |
-| 10 | **Hỗ trợ hậu cần / Khánh tiết** | *(Cập nhật)* | |
+| 1 | **Trưởng BTC** | Hoàng Minh Tân | 0902040381 |
+| 2 | **Phó BTC / Điều hành thi đấu & Truyền thông** | Nguyễn Hồng Trung Kiên | |
+| 3 | **Thư ký / Ghi nhận đăng ký & Sân bãi** | Hoàng Minh Thắng | |
+| 4 | **Phụ trách Tiệc bia / Hậu cần & Khánh tiết** | Anh Thiêm | |
+| 5 | **Phụ trách Giải thưởng / Cúp** | Lê Sỹ Dũng | |
+| 6 | **Hỗ trợ điều hành sân (ngày thi)** | Vũ Linh | |
+| 7 | **Hỗ trợ điều hành sân (ngày thi)** | Nguyễn Anh Tuấn | |
 
 ---
 
@@ -26,7 +23,7 @@
 
 ### 1. Ghi nhận đăng ký
 
-**Phụ trách:** Thư ký (vai trò 3)
+**Phụ trách:** Hoàng Minh Thắng (vai trò 3)
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
@@ -40,7 +37,7 @@
 
 ### 2. Đặt sân
 
-**Phụ trách:** Phụ trách Sân bãi (vai trò 4)
+**Phụ trách:** Hoàng Minh Thắng (vai trò 3)
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
@@ -56,7 +53,7 @@
 
 ### 3. Truyền thông & Thông báo
 
-**Phụ trách:** Phụ trách Truyền thông (vai trò 5)
+**Phụ trách:** Nguyễn Hồng Trung Kiên (vai trò 2)
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
@@ -71,7 +68,7 @@
 
 ### 4. Đặt tiệc bia & Hậu cần
 
-**Phụ trách:** Phụ trách Tiệc bia / Hậu cần (vai trò 6)
+**Phụ trách:** Anh Thiêm (vai trò 4)
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
@@ -86,7 +83,7 @@
 
 ### 5. Chuẩn bị giải thưởng & Cúp
 
-**Phụ trách:** Phụ trách Giải thưởng / Cúp (vai trò 7)
+**Phụ trách:** Lê Sỹ Dũng (vai trò 5)
 
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
@@ -102,7 +99,7 @@
 
 ### 6. Điều hành thi đấu (ngày 13/6)
 
-**Phụ trách:** Phó BTC + 2 hỗ trợ điều hành (vai trò 2, 8, 9)
+**Phụ trách:** Nguyễn Hồng Trung Kiên + Vũ Linh + Nguyễn Anh Tuấn (vai trò 2, 6, 7)
 
 | # | Công việc | Thời điểm |
 |---|-----------|-----------|
