@@ -24,7 +24,7 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 | Đến 18/5 | Họp BTC lần 1: ngân sách, cơ cấu giải thưởng, quy mô | Tất cả BTC |
 | **Ngay sau họp BTC** | **Tạo bình chọn Zalo + đăng Thông báo 1 (phát động)** | Nguyễn Hồng Trung Kiên |
 | Đến 20/5 | Khảo sát sân, báo giá, chốt địa điểm | Hoàng Minh Thắng |
-| Đến 22/5 | Đặt cọc sân | Hoàng Minh Tân + Hoàng Minh Thắng |
+| Đến 22/5 | Đặt cọc sân | Hoàng Minh Thắng |
 | Đến 22/5 | Khảo sát địa điểm tiệc bia (gần sân) | Anh Thiêm |
 | Ngay sau họp BTC | Đặt cúp | Lê Sỹ Dũng |
 | Ngay sau họp – 8/6 | Theo dõi bình chọn, tổng hợp danh sách (kèm level) | Hoàng Minh Thắng |
