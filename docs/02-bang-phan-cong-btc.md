@@ -73,7 +73,7 @@
 | # | Công việc | Deadline | Trạng thái |
 |---|-----------|----------|------------|
 | 4.1 | Khảo sát địa điểm tổ chức tiệc bia (gần sân) | 22/5 | ⬜ |
-| 4.2 | Xác nhận số người tham dự tiệc với Trưởng BTC | 10/6 | ⬜ |
+| 4.2 | Xác nhận số người tham dự tiệc với Thư ký | 10/6 | ⬜ |
 | 4.3 | Đặt bàn / đặt cọc nhà hàng/quán bia | 10/6 | ⬜ |
 | 4.4 | Chuẩn bị nước uống và đồ ăn nhẹ cho ngày thi đấu | 12/6 | ⬜ |
 | 4.5 | Xác nhận lại với nhà hàng trước 1 ngày | 12/6 | ⬜ |
