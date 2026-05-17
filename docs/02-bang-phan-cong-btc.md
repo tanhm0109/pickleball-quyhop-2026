@@ -1,11 +1,11 @@
 # Bảng phân công Ban Tổ chức
 
 **Giải Pickleball HĐH Quỳ Hợp Khu Vực Phía Bắc — 13/6/2026**
-**Ban Tổ chức: 7 người**
+**Ban Tổ chức: 7 thành viên chịu trách nhiệm + thành viên hỗ trợ**
 
 ---
 
-## Sơ đồ nhân sự BTC
+## Thành viên chịu trách nhiệm
 
 | STT | Vai trò | Người phụ trách | Liên hệ |
 |-----|---------|-----------------|---------|
@@ -16,6 +16,13 @@
 | 5 | **Phụ trách Giải thưởng / Cúp** | Lê Sỹ Dũng | 0903878866 |
 | 6 | **Hỗ trợ điều hành sân (ngày thi)** | Vũ Linh | 0394713053 |
 | 7 | **Hỗ trợ điều hành sân (ngày thi)** | Nguyễn Anh Tuấn | 0912682378 |
+
+## Thành viên hỗ trợ
+
+| STT | Họ tên | Liên hệ | Ghi chú |
+|-----|--------|---------|---------|
+| 1 | *(Cập nhật)* | | |
+| 2 | *(Cập nhật)* | | |
 
 ---
 
