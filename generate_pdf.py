@@ -22,9 +22,10 @@ body {
     }
 }
 h1 { font-size: 20px; color: #1a5276; border-bottom: 2px solid #1a5276; padding-bottom: 6px; margin-top: 0; }
-h2 { font-size: 16px; color: #1f618d; margin-top: 24px; }
+h2 { font-size: 16px; color: #1f618d; margin-top: 24px; page-break-before: always; break-before: page; }
+h2:first-of-type { page-break-before: auto; break-before: auto; }
 h3 { font-size: 14px; color: #2471a3; }
-table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: 12px; }
+table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: 12px; page-break-inside: avoid; break-inside: avoid; }
 th { background: #1f618d; color: white; padding: 7px 10px; text-align: left; }
 td { padding: 6px 10px; border: 1px solid #d5d8dc; }
 tr:nth-child(even) td { background: #f2f3f4; }
