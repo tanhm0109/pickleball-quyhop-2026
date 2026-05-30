@@ -9,7 +9,8 @@
 ---
 
 🏓 **GIẢI PICKLEBALL GIAO LƯU — HĐH QUỲ HỢP PHÍA BẮC**
-📅 Thứ Bảy, **6/6/2026**
+📅 Thứ Bảy, **6/6/2026 — 7:30 sáng**
+📍 Sân Pickleball trạm bơm hồ Định Công
 
 Ban Tổ chức trân trọng thông báo: **Giải Pickleball Giao Lưu HĐH Quỳ Hợp Khu Vực Phía Bắc** sẽ chính thức được tổ chức!
 Nội dung: thi đấu đôi + tiệc bia giao lưu sau giải 🍺
@@ -47,8 +48,8 @@ Ai đăng ký rồi thì giúp BTC tag thêm đồng hương mình biết với!
 
 🏓 **LỊCH THI ĐẤU CHÍNH THỨC — GIẢI PICKLEBALL 6/6/2026**
 
-📍 **Địa điểm:** *(cập nhật)*
-⏰ **Tập trung:** *(cập nhật)* | **Khai mạc:** *(cập nhật)*
+📍 **Địa điểm:** Sân Pickleball trạm bơm hồ Định Công ([bản đồ](https://maps.app.goo.gl/8GAQBNNMUT5AdNFb7?g_st=ac))
+⏰ **Tập trung:** 7:30 sáng | **Khai mạc:** 8:00
 🎽 Trang phục thoải mái, năng động
 
 **Danh sách cặp đôi thi đấu:** *(đính kèm)*

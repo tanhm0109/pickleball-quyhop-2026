@@ -52,6 +52,8 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 
 ## GIAI ĐOẠN 3: Ngày thi đấu — Thứ Bảy 6/6/2026
 
+**📍 Địa điểm: Sân Pickleball trạm bơm hồ Định Công** ([bản đồ](https://maps.app.goo.gl/8GAQBNNMUT5AdNFb7?g_st=ac))
+
 | Giờ | Hoạt động | Phụ trách |
 |-----|-----------|-----------|
 | 7:00 | BTC có mặt, kiểm tra sân | Hoàng Minh Thắng + Anh Thiêm |

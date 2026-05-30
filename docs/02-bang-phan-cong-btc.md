@@ -1,6 +1,6 @@
 # Bảng phân công Ban Tổ chức
 
-**Giải Pickleball HĐH Quỳ Hợp Khu Vực Phía Bắc — 13/6/2026**
+**Giải Pickleball HĐH Quỳ Hợp Khu Vực Phía Bắc — 6/6/2026**
 **Ban Tổ chức: 7 thành viên chịu trách nhiệm + thành viên hỗ trợ (trao đổi qua nhóm Zalo BTC)**
 
 ---
@@ -94,7 +94,7 @@
 
 ---
 
-### 6. Điều hành thi đấu (ngày 13/6)
+### 6. Điều hành thi đấu (ngày 6/6)
 
 **Phụ trách:** Nguyễn Hồng Trung Kiên + Hoàng Minh Thắng + Vũ Linh + Nguyễn Anh Tuấn (vai trò 2, 3, 6, 7)
 
