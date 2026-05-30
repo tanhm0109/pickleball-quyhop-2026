@@ -54,9 +54,9 @@ Ai đăng ký rồi thì giúp BTC tag thêm đồng hương mình biết với!
 
 **Danh sách cặp đôi thi đấu:** *(đính kèm)*
 
-🍺 **Tiệc bia giao lưu:** ngay sau thi đấu tại *(địa điểm)*
+🍺 **Tiệc bia giao lưu:** ngay sau thi đấu — địa điểm sẽ thông báo sau
 
-Thắc mắc liên hệ BTC: **Nguyễn Hồng Trung Kiên — 0973358670**
+Liên hệ BTC: **Nguyễn Hồng Trung Kiên — 0973358670**
 Hẹn gặp bà con thứ Bảy! 🎉
 
 ---
