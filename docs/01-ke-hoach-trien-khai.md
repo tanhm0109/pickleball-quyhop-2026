@@ -47,6 +47,7 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 | 7 | 5/6 | Chuẩn bị nước uống và đồ ăn nhẹ tại sân | Anh Thiêm |
 | 8 | 5/6 | Xác nhận lại nhà hàng/quán bia | Anh Thiêm |
 | 9 | 5/6 | Chuẩn bị huy chương, phong bì tiền thưởng | Lê Sỹ Dũng |
+| 10 | 5/6 | **Thiết kế và in backdrop giải đấu** | Nguyễn Hồng Trung Kiên |
 
 ---
 
@@ -56,7 +57,7 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 
 | # | Giờ | Hoạt động | Phụ trách |
 |---|-----|-----------|-----------|
-| 1 | 7:00 | BTC có mặt, kiểm tra sân | Hoàng Minh Thắng + Anh Thiêm |
+| 1 | 7:00 | BTC có mặt, kiểm tra sân, **dựng backdrop** | Hoàng Minh Thắng + Anh Thiêm + Nguyễn Hồng Trung Kiên |
 | 2 | 7:30 | Đón tiếp VĐV, điểm danh | Hoàng Minh Thắng + Vũ Linh + Nguyễn Anh Tuấn |
 | 3 | 8:00 | **Khai mạc** — phát biểu, phổ biến thể lệ | Hoàng Minh Tân |
 | 4 | 8:30 | **Bắt đầu thi đấu** | Nguyễn Hồng Trung Kiên + Hoàng Minh Thắng + Vũ Linh + Nguyễn Anh Tuấn |
@@ -90,4 +91,5 @@ Chuẩn bị & Mở đăng ký       →   Chốt & Chuẩn bị   →   Ngày t
 - [ ] Huy chương và tiền thưởng đã chuẩn bị
 - [ ] Bàn tiệc bia đã đặt
 - [ ] Nước uống và đồ ăn nhẹ tại sân đã chuẩn bị
+- [ ] Backdrop đã in và chuẩn bị
 - [ ] BTC đã phân công cụ thể trong ngày thi
