@@ -1,203 +1,262 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4000 3000" width="4000" height="3000">
   <defs>
+    <!-- Navy blue background matching MB Pickleball style -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0c1f5e"/>
-      <stop offset="100%" stop-color="#081540"/>
+      <stop offset="0%" stop-color="#0a1f6e"/>
+      <stop offset="100%" stop-color="#071450"/>
     </linearGradient>
+    <!-- Bright sport green bars -->
     <linearGradient id="greenH" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#0a5c22"/>
-      <stop offset="30%"  stop-color="#18a84a"/>
-      <stop offset="50%"  stop-color="#22cc58"/>
-      <stop offset="70%"  stop-color="#18a84a"/>
-      <stop offset="100%" stop-color="#0a5c22"/>
+      <stop offset="0%"   stop-color="#0a6626"/>
+      <stop offset="35%"  stop-color="#12c248"/>
+      <stop offset="50%"  stop-color="#18e855"/>
+      <stop offset="65%"  stop-color="#12c248"/>
+      <stop offset="100%" stop-color="#0a6626"/>
     </linearGradient>
     <linearGradient id="greenV" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%"   stop-color="#0a5c22"/>
-      <stop offset="50%"  stop-color="#18a84a"/>
-      <stop offset="100%" stop-color="#0a5c22"/>
+      <stop offset="0%"   stop-color="#0a6626"/>
+      <stop offset="50%"  stop-color="#12c248"/>
+      <stop offset="100%" stop-color="#0a6626"/>
     </linearGradient>
+    <!-- Gold for dividers -->
     <linearGradient id="goldH" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#7d5a00"/>
-      <stop offset="50%"  stop-color="#fbbf24"/>
-      <stop offset="100%" stop-color="#7d5a00"/>
+      <stop offset="0%"   stop-color="#6b4a00"/>
+      <stop offset="50%"  stop-color="#f5c518"/>
+      <stop offset="100%" stop-color="#6b4a00"/>
     </linearGradient>
-    <radialGradient id="centerGlow" cx="50%" cy="45%" r="50%">
-      <stop offset="0%"   stop-color="#1a4a9a" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#0c1f5e" stop-opacity="0"/>
+    <!-- Player silhouette glow -->
+    <radialGradient id="playerGlowL" cx="50%" cy="60%" r="50%">
+      <stop offset="0%" stop-color="#12c248" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#12c248" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="ballGlowG" cx="50%" cy="50%" r="50%">
-      <stop offset="0%"   stop-color="#18a84a" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#18a84a" stop-opacity="0"/>
+    <radialGradient id="playerGlowR" cx="50%" cy="60%" r="50%">
+      <stop offset="0%" stop-color="#12c248" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#12c248" stop-opacity="0"/>
     </radialGradient>
-    <filter id="textGlow">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
+    <!-- Center glow -->
+    <radialGradient id="centerGlow" cx="50%" cy="45%" r="45%">
+      <stop offset="0%"   stop-color="#1435b0" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#0a1f6e" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="subtleGlow" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <!-- Background -->
+  <!-- ── BACKGROUND ── -->
   <rect width="4000" height="3000" fill="url(#bgGrad)"/>
+  <ellipse cx="2000" cy="1300" rx="1800" ry="1200" fill="url(#centerGlow)"/>
 
-  <!-- Center radial glow -->
-  <ellipse cx="2000" cy="1400" rx="1900" ry="1300" fill="url(#centerGlow)"/>
-
-  <!-- Diagonal stripe texture -->
-  <g opacity="0.025" stroke="#ffffff" stroke-width="50">
-    <line x1="-300" y1="0" x2="700"  y2="3000"/>
-    <line x1="100"  y1="0" x2="1100" y2="3000"/>
-    <line x1="500"  y1="0" x2="1500" y2="3000"/>
-    <line x1="900"  y1="0" x2="1900" y2="3000"/>
-    <line x1="1300" y1="0" x2="2300" y2="3000"/>
-    <line x1="1700" y1="0" x2="2700" y2="3000"/>
-    <line x1="2100" y1="0" x2="3100" y2="3000"/>
-    <line x1="2500" y1="0" x2="3500" y2="3000"/>
-    <line x1="2900" y1="0" x2="3900" y2="3000"/>
-    <line x1="3300" y1="0" x2="4300" y2="3000"/>
+  <!-- Subtle diagonal texture -->
+  <g opacity="0.022" stroke="#ffffff" stroke-width="60">
+    <line x1="-400" y1="0" x2="600"  y2="3000"/>
+    <line x1="0"    y1="0" x2="1000" y2="3000"/>
+    <line x1="400"  y1="0" x2="1400" y2="3000"/>
+    <line x1="800"  y1="0" x2="1800" y2="3000"/>
+    <line x1="1200" y1="0" x2="2200" y2="3000"/>
+    <line x1="1600" y1="0" x2="2600" y2="3000"/>
+    <line x1="2000" y1="0" x2="3000" y2="3000"/>
+    <line x1="2400" y1="0" x2="3400" y2="3000"/>
+    <line x1="2800" y1="0" x2="3800" y2="3000"/>
+    <line x1="3200" y1="0" x2="4200" y2="3000"/>
   </g>
 
-  <!-- TOP GREEN BAR -->
-  <rect x="0" y="0" width="4000" height="130" fill="url(#greenH)"/>
-  <!-- Gold accent line under green bar -->
-  <rect x="0" y="130" width="4000" height="5" fill="#fbbf24" opacity="0.55"/>
+  <!-- ── TOP GREEN BAR ── -->
+  <rect x="0" y="0" width="4000" height="140" fill="url(#greenH)"/>
+  <rect x="0" y="140" width="4000" height="5" fill="#f5c518" opacity="0.5"/>
 
-  <!-- BOTTOM GREEN BAR -->
-  <rect x="0" y="2870" width="4000" height="130" fill="url(#greenH)"/>
-  <!-- Gold accent line above bottom bar -->
-  <rect x="0" y="2865" width="4000" height="5" fill="#fbbf24" opacity="0.55"/>
+  <!-- ── BOTTOM GREEN BAR ── -->
+  <rect x="0" y="2860" width="4000" height="140" fill="url(#greenH)"/>
+  <rect x="0" y="2855" width="4000" height="5" fill="#f5c518" opacity="0.5"/>
 
-  <!-- Side vertical green lines -->
-  <rect x="68"   y="135" width="10" height="2730" fill="url(#greenV)" opacity="0.55"/>
-  <rect x="3922" y="135" width="10" height="2730" fill="url(#greenV)" opacity="0.55"/>
-  <!-- Inner thin gold lines -->
-  <rect x="98"   y="135" width="3" height="2730" fill="#fbbf24" opacity="0.18"/>
-  <rect x="3899" y="135" width="3" height="2730" fill="#fbbf24" opacity="0.18"/>
+  <!-- Side lines -->
+  <rect x="66"   y="145" width="10" height="2710" fill="url(#greenV)" opacity="0.5"/>
+  <rect x="3924" y="145" width="10" height="2710" fill="url(#greenV)" opacity="0.5"/>
+  <rect x="96"   y="145" width="3"  height="2710" fill="#f5c518" opacity="0.15"/>
+  <rect x="3901" y="145" width="3"  height="2710" fill="#f5c518" opacity="0.15"/>
 
-  <!-- Corner accent triangles -->
-  <polygon points="108,135 460,135 108,480" fill="#18a84a" opacity="0.18"/>
-  <polygon points="3892,135 3540,135 3892,480" fill="#18a84a" opacity="0.18"/>
-  <polygon points="108,2865 460,2865 108,2520" fill="#18a84a" opacity="0.18"/>
-  <polygon points="3892,2865 3540,2865 3892,2520" fill="#18a84a" opacity="0.18"/>
+  <!-- Corner triangles -->
+  <polygon points="106,145 420,145 106,460" fill="#12c248" opacity="0.16"/>
+  <polygon points="3894,145 3580,145 3894,460" fill="#12c248" opacity="0.16"/>
+  <polygon points="106,2855 420,2855 106,2540" fill="#12c248" opacity="0.16"/>
+  <polygon points="3894,2855 3580,2855 3894,2540" fill="#12c248" opacity="0.16"/>
 
-  <!-- PICKLEBALL ICON — LEFT (green) -->
-  <g transform="translate(440,1500)" opacity="0.2">
-    <circle r="350" fill="url(#ballGlowG)" stroke="#18a84a" stroke-width="14"/>
-    <path d="M-350,0 Q-175,-290 0,-330 Q175,-290 350,0" fill="none" stroke="#18a84a" stroke-width="10"/>
-    <path d="M-350,0 Q-175,290 0,330 Q175,290 350,0"   fill="none" stroke="#18a84a" stroke-width="10"/>
-    <circle cx="-205" cy="-165" r="27" fill="#22cc58"/>
-    <circle cx="-102" cy="-190" r="27" fill="#22cc58"/>
-    <circle cx="0"    cy="-200" r="27" fill="#22cc58"/>
-    <circle cx="102"  cy="-190" r="27" fill="#22cc58"/>
-    <circle cx="205"  cy="-165" r="27" fill="#22cc58"/>
-    <circle cx="-245" cy="-52"  r="27" fill="#22cc58"/>
-    <circle cx="-132" cy="-62"  r="27" fill="#22cc58"/>
-    <circle cx="0"    cy="-67"  r="27" fill="#22cc58"/>
-    <circle cx="132"  cy="-62"  r="27" fill="#22cc58"/>
-    <circle cx="245"  cy="-52"  r="27" fill="#22cc58"/>
-    <circle cx="-245" cy="72"   r="27" fill="#22cc58"/>
-    <circle cx="-132" cy="62"   r="27" fill="#22cc58"/>
-    <circle cx="0"    cy="57"   r="27" fill="#22cc58"/>
-    <circle cx="132"  cy="62"   r="27" fill="#22cc58"/>
-    <circle cx="245"  cy="72"   r="27" fill="#22cc58"/>
-    <circle cx="-205" cy="185"  r="27" fill="#22cc58"/>
-    <circle cx="-102" cy="200"  r="27" fill="#22cc58"/>
-    <circle cx="0"    cy="205"  r="27" fill="#22cc58"/>
-    <circle cx="102"  cy="200"  r="27" fill="#22cc58"/>
-    <circle cx="205"  cy="185"  r="27" fill="#22cc58"/>
+  <!-- ══════════════════════════════════════════════════════
+       PLAYER SILHOUETTE — LEFT (Anna Leigh Waters, female)
+       Facing right, ready position, holding paddle 2-handed
+       Center: translate(600, 2780)   feet at y=0
+  ══════════════════════════════════════════════════════ -->
+  <g transform="translate(590, 2780)" fill="#e8f5ff" opacity="0.88">
+    <!-- Glow behind player -->
+    <ellipse cx="0" cy="-900" rx="340" ry="700" fill="url(#playerGlowL)"/>
+
+    <!-- Ponytail -->
+    <ellipse cx="60" cy="-2080" rx="35" ry="90" fill="#e8f5ff" transform="rotate(35,60,-2080)"/>
+    <ellipse cx="80" cy="-1990" rx="28" ry="70" fill="#e8f5ff" transform="rotate(40,80,-1990)"/>
+
+    <!-- Head -->
+    <circle cx="0" cy="-1980" r="105"/>
+
+    <!-- Neck -->
+    <rect x="-30" y="-1875" width="60" height="90" rx="10"/>
+
+    <!-- Torso (athletic female, slight forward lean) -->
+    <path d="M-105,-1785 L105,-1785 Q120,-1785 125,-1760
+             L110,-1340 Q105,-1310 80,-1305
+             L-80,-1305 Q-105,-1310 -110,-1340
+             L-125,-1760 Q-120,-1785 -105,-1785Z"/>
+
+    <!-- Left arm (extended forward, upper on paddle) -->
+    <path d="M-105,-1700 Q-160,-1650 -190,-1540 Q-215,-1450 -225,-1380
+             L-185,-1360 Q-175,-1430 -148,-1520 Q-120,-1610 -68,-1665Z" />
+
+    <!-- Right arm (dominant, lower on paddle handle) -->
+    <path d="M105,-1680 Q165,-1630 200,-1520 Q230,-1430 240,-1350
+             L200,-1340 Q190,-1415 160,-1505 Q128,-1600 72,-1645Z"/>
+
+    <!-- PADDLE (held roughly centered-forward) -->
+    <!-- Paddle face -->
+    <rect x="-40" y="-1380" width="270" height="180" rx="30"
+          transform="rotate(-10, 95, -1290)" fill="#e8f5ff"/>
+    <!-- Paddle handle -->
+    <rect x="90" y="-1200" width="30" height="140" rx="6"
+          transform="rotate(-5, 105, -1130)"/>
+
+    <!-- Hips -->
+    <path d="M-100,-1305 L100,-1305 L90,-1240 L-90,-1240Z"/>
+
+    <!-- Left leg (slightly forward) -->
+    <path d="M-80,-1240 L-10,-1240 L-20,-800 L-90,-800Z"/>
+    <!-- Left knee/lower leg -->
+    <path d="M-85,-800 L-25,-800 L-20,-440 L-80,-440Z"/>
+    <!-- Left foot -->
+    <ellipse cx="-52" cy="-420" rx="75" ry="28" transform="rotate(-8,-52,-420)"/>
+
+    <!-- Right leg (slightly back) -->
+    <path d="M10,-1240 L80,-1240 L95,-800 L25,-800Z"/>
+    <!-- Right lower leg -->
+    <path d="M30,-800 L90,-800 L85,-440 L25,-440Z"/>
+    <!-- Right foot -->
+    <ellipse cx="58" cy="-420" rx="70" ry="26" transform="rotate(5,58,-420)"/>
   </g>
 
-  <!-- PICKLEBALL ICON — RIGHT (green) -->
-  <g transform="translate(3560,1500)" opacity="0.2">
-    <circle r="350" fill="url(#ballGlowG)" stroke="#18a84a" stroke-width="14"/>
-    <path d="M-350,0 Q-175,-290 0,-330 Q175,-290 350,0" fill="none" stroke="#18a84a" stroke-width="10"/>
-    <path d="M-350,0 Q-175,290 0,330 Q175,290 350,0"   fill="none" stroke="#18a84a" stroke-width="10"/>
-    <circle cx="-205" cy="-165" r="27" fill="#22cc58"/>
-    <circle cx="-102" cy="-190" r="27" fill="#22cc58"/>
-    <circle cx="0"    cy="-200" r="27" fill="#22cc58"/>
-    <circle cx="102"  cy="-190" r="27" fill="#22cc58"/>
-    <circle cx="205"  cy="-165" r="27" fill="#22cc58"/>
-    <circle cx="-245" cy="-52"  r="27" fill="#22cc58"/>
-    <circle cx="-132" cy="-62"  r="27" fill="#22cc58"/>
-    <circle cx="0"    cy="-67"  r="27" fill="#22cc58"/>
-    <circle cx="132"  cy="-62"  r="27" fill="#22cc58"/>
-    <circle cx="245"  cy="-52"  r="27" fill="#22cc58"/>
-    <circle cx="-245" cy="72"   r="27" fill="#22cc58"/>
-    <circle cx="-132" cy="62"   r="27" fill="#22cc58"/>
-    <circle cx="0"    cy="57"   r="27" fill="#22cc58"/>
-    <circle cx="132"  cy="62"   r="27" fill="#22cc58"/>
-    <circle cx="245"  cy="72"   r="27" fill="#22cc58"/>
-    <circle cx="-205" cy="185"  r="27" fill="#22cc58"/>
-    <circle cx="-102" cy="200"  r="27" fill="#22cc58"/>
-    <circle cx="0"    cy="205"  r="27" fill="#22cc58"/>
-    <circle cx="102"  cy="200"  r="27" fill="#22cc58"/>
-    <circle cx="205"  cy="185"  r="27" fill="#22cc58"/>
+  <!-- Label under left player -->
+  <text x="590" y="2870"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="52" font-weight="bold"
+        fill="#12c248" opacity="0.75">Anna Leigh Waters</text>
+
+  <!-- ══════════════════════════════════════════════════════
+       PLAYER SILHOUETTE — RIGHT (Ben Johns, male)
+       Facing left (mirrored), athletic build, holding paddle
+       Center: translate(3410, 2780)
+  ══════════════════════════════════════════════════════ -->
+  <g transform="translate(3410, 2780) scale(-1,1)" fill="#e8f5ff" opacity="0.88">
+    <!-- Glow -->
+    <ellipse cx="0" cy="-900" rx="380" ry="740" fill="url(#playerGlowR)"/>
+
+    <!-- Head (male, no ponytail, slightly broader) -->
+    <circle cx="0" cy="-1990" r="115"/>
+
+    <!-- Neck -->
+    <rect x="-34" y="-1878" width="68" height="95" rx="10"/>
+
+    <!-- Torso (broader male build) -->
+    <path d="M-125,-1783 L125,-1783 Q142,-1783 148,-1755
+             L132,-1335 Q126,-1305 96,-1300
+             L-96,-1300 Q-126,-1305 -132,-1335
+             L-148,-1755 Q-142,-1783 -125,-1783Z"/>
+
+    <!-- Left arm -->
+    <path d="M-125,-1695 Q-185,-1645 -215,-1530 Q-242,-1440 -250,-1365
+             L-210,-1348 Q-200,-1420 -172,-1510 Q-142,-1600 -80,-1650Z"/>
+
+    <!-- Right arm (dominant) -->
+    <path d="M125,-1675 Q185,-1620 222,-1505 Q252,-1415 260,-1340
+             L218,-1328 Q208,-1400 178,-1492 Q145,-1585 80,-1635Z"/>
+
+    <!-- PADDLE (larger male version) -->
+    <rect x="-45" y="-1375" width="295" height="195" rx="32"
+          transform="rotate(-10, 105, -1278)" fill="#e8f5ff"/>
+    <rect x="95" y="-1185" width="34" height="155" rx="7"
+          transform="rotate(-5, 112, -1108)"/>
+
+    <!-- Hips -->
+    <path d="M-115,-1300 L115,-1300 L105,-1230 L-105,-1230Z"/>
+
+    <!-- Left leg -->
+    <path d="M-95,-1230 L-15,-1230 L-25,-780 L-105,-780Z"/>
+    <path d="M-100,-780 L-30,-780 L-25,-415 L-90,-415Z"/>
+    <ellipse cx="-58" cy="-395" rx="85" ry="32" transform="rotate(-8,-58,-395)"/>
+
+    <!-- Right leg -->
+    <path d="M15,-1230 L95,-1230 L110,-780 L30,-780Z"/>
+    <path d="M35,-780 L105,-780 L100,-415 L30,-415Z"/>
+    <ellipse cx="68" cy="-395" rx="80" ry="30" transform="rotate(6,68,-395)"/>
   </g>
 
-  <!-- Pickleball icon center-top (small, decorative) -->
-  <g transform="translate(2000,440)" opacity="0.85">
-    <circle r="92" fill="#18a84a" opacity="0.12" stroke="#18a84a" stroke-width="6"/>
-    <path d="M-92,0 Q-46,-76 0,-87 Q46,-76 92,0" fill="none" stroke="#18a84a" stroke-width="5" opacity="0.7"/>
-    <path d="M-92,0 Q-46,76 0,87 Q46,76 92,0"   fill="none" stroke="#18a84a" stroke-width="5" opacity="0.7"/>
-    <circle cx="-47" cy="-43" r="9" fill="#22cc58"/>
-    <circle cx="0"   cy="-51" r="9" fill="#22cc58"/>
-    <circle cx="47"  cy="-43" r="9" fill="#22cc58"/>
-    <circle cx="-56" cy="0"   r="9" fill="#22cc58"/>
-    <circle cx="0"   cy="0"   r="9" fill="#22cc58"/>
-    <circle cx="56"  cy="0"   r="9" fill="#22cc58"/>
-    <circle cx="-47" cy="43"  r="9" fill="#22cc58"/>
-    <circle cx="0"   cy="51"  r="9" fill="#22cc58"/>
-    <circle cx="47"  cy="43"  r="9" fill="#22cc58"/>
-  </g>
+  <!-- Label under right player -->
+  <text x="3410" y="2870"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="52" font-weight="bold"
+        fill="#12c248" opacity="0.75">Ben Johns</text>
+
+  <!-- ── CENTER CONTENT ── -->
 
   <!-- MAIN TITLE: GIẢI PICKLEBALL -->
-  <text x="2000" y="800"
+  <text x="2000" y="740"
         text-anchor="middle"
         font-family="'Arial Black', Arial, sans-serif"
-        font-size="248" font-weight="900"
-        letter-spacing="16"
+        font-size="240" font-weight="900"
+        letter-spacing="14"
         fill="#ffffff"
-        filter="url(#textGlow)">GI&#7842;I PICKLEBALL</text>
+        filter="url(#subtleGlow)">GI&#7842;I PICKLEBALL</text>
 
-  <!-- SUB-TITLE: GIAO LƯU -->
-  <!-- Green highlight bar behind subtitle -->
-  <rect x="560" y="845" width="2880" height="225" fill="#18a84a" opacity="0.15" rx="8"/>
-  <text x="2000" y="1038"
+  <!-- SUB-TITLE: GIAO LƯU with green highlight -->
+  <rect x="720" y="770" width="2560" height="220" fill="#12c248" opacity="0.14" rx="6"/>
+  <text x="2000" y="960"
         text-anchor="middle"
         font-family="'Arial Black', Arial, sans-serif"
-        font-size="218" font-weight="900"
-        letter-spacing="42"
-        fill="#22cc58">GIAO L&#431;U</text>
+        font-size="210" font-weight="900"
+        letter-spacing="40"
+        fill="#12c248">GIAO L&#431;U</text>
 
-  <!-- Divider: green bar + gold line -->
-  <rect x="250" y="1110" width="3500" height="8" fill="url(#greenH)" rx="4"/>
-  <rect x="450" y="1126" width="3100" height="3" fill="#fbbf24" opacity="0.35" rx="2"/>
+  <!-- Divider: green + gold -->
+  <rect x="320" y="1028" width="3360" height="9" fill="url(#greenH)" rx="4"/>
+  <rect x="520" y="1045" width="2960" height="4" fill="#f5c518" opacity="0.38" rx="2"/>
 
   <!-- ORGANIZATION NAME -->
-  <text x="2000" y="1302"
+  <text x="2000" y="1212"
         text-anchor="middle"
         font-family="Arial, sans-serif"
-        font-size="126" font-weight="bold"
+        font-size="122" font-weight="bold"
         letter-spacing="6"
-        fill="#e8f5e9">H&#272;H QU&#7922; H&#7906;P KHU V&#7920;C PH&#205;A B&#7854;C</text>
+        fill="#ffffff">H&#272;H QU&#7922; H&#7906;P KHU V&#7920;C PH&#205;A B&#7854;C</text>
 
-  <!-- Thin gold divider -->
-  <rect x="650" y="1368" width="2700" height="4" fill="url(#goldH)" opacity="0.6" rx="2"/>
+  <!-- Thin gold line -->
+  <rect x="680" y="1275" width="2640" height="4" fill="url(#goldH)" opacity="0.6" rx="2"/>
 
-  <!-- DATE & LOCATION — fixed Thứ Bảy -->
-  <text x="2000" y="1526"
+  <!-- DATE & LOCATION — Thứ Bảy fixed -->
+  <text x="2000" y="1430"
         text-anchor="middle"
         font-family="Arial, sans-serif"
-        font-size="110"
-        fill="#fbbf24">
-    Th&#7913; B&#7843;y, 06/06/2026&#160;&#160;&#8226;&#160;&#160;H&#224; N&#7897;i
-  </text>
+        font-size="106"
+        fill="#f5c518">Th&#7913; B&#7843;y, 06/06/2026&#160;&#160;&#8226;&#160;&#160;H&#224; N&#7897;i</text>
 
-  <!-- Bottom slogan -->
-  <text x="2000" y="2716"
+  <!-- SLOGAN -->
+  <text x="2000" y="2740"
         text-anchor="middle"
         font-family="Arial, sans-serif"
-        font-size="66"
-        fill="#22cc58" opacity="0.65"
-        letter-spacing="3">&#272;&#7891;ng h&#432;&#417;ng Qu&#7923; H&#7907;p &#8212; N&#417;i t&#236;nh qu&#234; h&#7897;i t&#7909;, n&#417;i s&#7913;c kh&#7887;e th&#259;ng hoa</text>
+        font-size="62"
+        fill="#12c248" opacity="0.6"
+        letter-spacing="2">&#272;&#7891;ng h&#432;&#417;ng Qu&#7923; H&#7907;p &#8212; N&#417;i t&#236;nh qu&#234; h&#7897;i t&#7909;, n&#417;i s&#7913;c kh&#7887;e th&#259;ng hoa</text>
 
 </svg>
