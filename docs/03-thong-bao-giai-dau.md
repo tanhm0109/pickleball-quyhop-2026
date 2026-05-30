@@ -52,8 +52,6 @@ Ai đăng ký rồi thì giúp BTC tag thêm đồng hương mình biết với!
 ⏰ **Tập trung:** 7:30 sáng | **Khai mạc:** 8:00
 🎽 Trang phục thoải mái, năng động
 
-**Danh sách cặp đôi thi đấu:** *(đính kèm)*
-
 🍺 **Tiệc bia giao lưu:** ngay sau thi đấu — địa điểm sẽ thông báo sau
 
 Liên hệ BTC: **Nguyễn Hồng Trung Kiên — 0973358670**
