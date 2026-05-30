@@ -87,128 +87,6 @@
   <polygon points="106,2855 420,2855 106,2540" fill="#12c248" opacity="0.16"/>
   <polygon points="3894,2855 3580,2855 3894,2540" fill="#12c248" opacity="0.16"/>
 
-  <!-- ══════════════════════════════════════════════════════
-       PLAYER SILHOUETTE — LEFT (Anna Leigh Waters, female)
-       Facing right, ready position, holding paddle 2-handed
-       Center: translate(600, 2780)   feet at y=0
-  ══════════════════════════════════════════════════════ -->
-  <g transform="translate(590, 2780)" fill="#e8f5ff" opacity="0.88">
-    <!-- Glow behind player -->
-    <ellipse cx="0" cy="-900" rx="340" ry="700" fill="url(#playerGlowL)"/>
-
-    <!-- Ponytail -->
-    <ellipse cx="60" cy="-2080" rx="35" ry="90" fill="#e8f5ff" transform="rotate(35,60,-2080)"/>
-    <ellipse cx="80" cy="-1990" rx="28" ry="70" fill="#e8f5ff" transform="rotate(40,80,-1990)"/>
-
-    <!-- Head -->
-    <circle cx="0" cy="-1980" r="105"/>
-
-    <!-- Neck -->
-    <rect x="-30" y="-1875" width="60" height="90" rx="10"/>
-
-    <!-- Torso (athletic female, slight forward lean) -->
-    <path d="M-105,-1785 L105,-1785 Q120,-1785 125,-1760
-             L110,-1340 Q105,-1310 80,-1305
-             L-80,-1305 Q-105,-1310 -110,-1340
-             L-125,-1760 Q-120,-1785 -105,-1785Z"/>
-
-    <!-- Left arm (extended forward, upper on paddle) -->
-    <path d="M-105,-1700 Q-160,-1650 -190,-1540 Q-215,-1450 -225,-1380
-             L-185,-1360 Q-175,-1430 -148,-1520 Q-120,-1610 -68,-1665Z" />
-
-    <!-- Right arm (dominant, lower on paddle handle) -->
-    <path d="M105,-1680 Q165,-1630 200,-1520 Q230,-1430 240,-1350
-             L200,-1340 Q190,-1415 160,-1505 Q128,-1600 72,-1645Z"/>
-
-    <!-- PADDLE (held roughly centered-forward) -->
-    <!-- Paddle face -->
-    <rect x="-40" y="-1380" width="270" height="180" rx="30"
-          transform="rotate(-10, 95, -1290)" fill="#e8f5ff"/>
-    <!-- Paddle handle -->
-    <rect x="90" y="-1200" width="30" height="140" rx="6"
-          transform="rotate(-5, 105, -1130)"/>
-
-    <!-- Hips -->
-    <path d="M-100,-1305 L100,-1305 L90,-1240 L-90,-1240Z"/>
-
-    <!-- Left leg (slightly forward) -->
-    <path d="M-80,-1240 L-10,-1240 L-20,-800 L-90,-800Z"/>
-    <!-- Left knee/lower leg -->
-    <path d="M-85,-800 L-25,-800 L-20,-440 L-80,-440Z"/>
-    <!-- Left foot -->
-    <ellipse cx="-52" cy="-420" rx="75" ry="28" transform="rotate(-8,-52,-420)"/>
-
-    <!-- Right leg (slightly back) -->
-    <path d="M10,-1240 L80,-1240 L95,-800 L25,-800Z"/>
-    <!-- Right lower leg -->
-    <path d="M30,-800 L90,-800 L85,-440 L25,-440Z"/>
-    <!-- Right foot -->
-    <ellipse cx="58" cy="-420" rx="70" ry="26" transform="rotate(5,58,-420)"/>
-  </g>
-
-  <!-- Label under left player -->
-  <text x="590" y="2870"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="52" font-weight="bold"
-        fill="#12c248" opacity="0.75">Anna Leigh Waters</text>
-
-  <!-- ══════════════════════════════════════════════════════
-       PLAYER SILHOUETTE — RIGHT (Ben Johns, male)
-       Facing left (mirrored), athletic build, holding paddle
-       Center: translate(3410, 2780)
-  ══════════════════════════════════════════════════════ -->
-  <g transform="translate(3410, 2780) scale(-1,1)" fill="#e8f5ff" opacity="0.88">
-    <!-- Glow -->
-    <ellipse cx="0" cy="-900" rx="380" ry="740" fill="url(#playerGlowR)"/>
-
-    <!-- Head (male, no ponytail, slightly broader) -->
-    <circle cx="0" cy="-1990" r="115"/>
-
-    <!-- Neck -->
-    <rect x="-34" y="-1878" width="68" height="95" rx="10"/>
-
-    <!-- Torso (broader male build) -->
-    <path d="M-125,-1783 L125,-1783 Q142,-1783 148,-1755
-             L132,-1335 Q126,-1305 96,-1300
-             L-96,-1300 Q-126,-1305 -132,-1335
-             L-148,-1755 Q-142,-1783 -125,-1783Z"/>
-
-    <!-- Left arm -->
-    <path d="M-125,-1695 Q-185,-1645 -215,-1530 Q-242,-1440 -250,-1365
-             L-210,-1348 Q-200,-1420 -172,-1510 Q-142,-1600 -80,-1650Z"/>
-
-    <!-- Right arm (dominant) -->
-    <path d="M125,-1675 Q185,-1620 222,-1505 Q252,-1415 260,-1340
-             L218,-1328 Q208,-1400 178,-1492 Q145,-1585 80,-1635Z"/>
-
-    <!-- PADDLE (larger male version) -->
-    <rect x="-45" y="-1375" width="295" height="195" rx="32"
-          transform="rotate(-10, 105, -1278)" fill="#e8f5ff"/>
-    <rect x="95" y="-1185" width="34" height="155" rx="7"
-          transform="rotate(-5, 112, -1108)"/>
-
-    <!-- Hips -->
-    <path d="M-115,-1300 L115,-1300 L105,-1230 L-105,-1230Z"/>
-
-    <!-- Left leg -->
-    <path d="M-95,-1230 L-15,-1230 L-25,-780 L-105,-780Z"/>
-    <path d="M-100,-780 L-30,-780 L-25,-415 L-90,-415Z"/>
-    <ellipse cx="-58" cy="-395" rx="85" ry="32" transform="rotate(-8,-58,-395)"/>
-
-    <!-- Right leg -->
-    <path d="M15,-1230 L95,-1230 L110,-780 L30,-780Z"/>
-    <path d="M35,-780 L105,-780 L100,-415 L30,-415Z"/>
-    <ellipse cx="68" cy="-395" rx="80" ry="30" transform="rotate(6,68,-395)"/>
-  </g>
-
-  <!-- Label under right player -->
-  <text x="3410" y="2870"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="52" font-weight="bold"
-        fill="#12c248" opacity="0.75">Ben Johns</text>
-
   <!-- ── CENTER CONTENT ── -->
 
   <!-- MAIN TITLE: GIẢI PICKLEBALL -->
@@ -252,11 +130,11 @@
         fill="#f5c518">Th&#7913; B&#7843;y, 06/06/2026&#160;&#160;&#8226;&#160;&#160;H&#224; N&#7897;i</text>
 
   <!-- SLOGAN -->
-  <text x="2000" y="2740"
+  <text x="2000" y="1720"
         text-anchor="middle"
         font-family="Arial, sans-serif"
-        font-size="62"
-        fill="#12c248" opacity="0.6"
+        font-size="80"
+        fill="#12c248" opacity="0.7"
         letter-spacing="2">&#272;&#7891;ng h&#432;&#417;ng Qu&#7923; H&#7907;p &#8212; N&#417;i t&#236;nh qu&#234; h&#7897;i t&#7909;, n&#417;i s&#7913;c kh&#7887;e th&#259;ng hoa</text>
 
 </svg>
