@@ -2,170 +2,202 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4000 3000" width="4000" height="3000">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a2550"/>
-      <stop offset="100%" stop-color="#0e3a7a"/>
+      <stop offset="0%" stop-color="#0c1f5e"/>
+      <stop offset="100%" stop-color="#081540"/>
+    </linearGradient>
+    <linearGradient id="greenH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a5c22"/>
+      <stop offset="30%"  stop-color="#18a84a"/>
+      <stop offset="50%"  stop-color="#22cc58"/>
+      <stop offset="70%"  stop-color="#18a84a"/>
+      <stop offset="100%" stop-color="#0a5c22"/>
+    </linearGradient>
+    <linearGradient id="greenV" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#0a5c22"/>
+      <stop offset="50%"  stop-color="#18a84a"/>
+      <stop offset="100%" stop-color="#0a5c22"/>
     </linearGradient>
     <linearGradient id="goldH" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#7d5a00"/>
-      <stop offset="30%"  stop-color="#ffd700"/>
-      <stop offset="50%"  stop-color="#ffe966"/>
-      <stop offset="70%"  stop-color="#ffd700"/>
+      <stop offset="50%"  stop-color="#fbbf24"/>
       <stop offset="100%" stop-color="#7d5a00"/>
     </linearGradient>
-    <linearGradient id="goldV" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%"   stop-color="#7d5a00"/>
-      <stop offset="50%"  stop-color="#ffd700"/>
-      <stop offset="100%" stop-color="#7d5a00"/>
-    </linearGradient>
-    <radialGradient id="ballGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%"   stop-color="#ffd700" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#ffd700" stop-opacity="0"/>
+    <radialGradient id="centerGlow" cx="50%" cy="45%" r="50%">
+      <stop offset="0%"   stop-color="#1a4a9a" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0c1f5e" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="ballGlowG" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#18a84a" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#18a84a" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
 
   <!-- Background -->
   <rect width="4000" height="3000" fill="url(#bgGrad)"/>
 
-  <!-- Diagonal stripe pattern -->
-  <g opacity="0.04" stroke="#ffffff" stroke-width="40">
-    <line x1="-200" y1="0" x2="800"  y2="3000"/>
-    <line x1="200"  y1="0" x2="1200" y2="3000"/>
-    <line x1="600"  y1="0" x2="1600" y2="3000"/>
-    <line x1="1000" y1="0" x2="2000" y2="3000"/>
-    <line x1="1400" y1="0" x2="2400" y2="3000"/>
-    <line x1="1800" y1="0" x2="2800" y2="3000"/>
-    <line x1="2200" y1="0" x2="3200" y2="3000"/>
-    <line x1="2600" y1="0" x2="3600" y2="3000"/>
-    <line x1="3000" y1="0" x2="4000" y2="3000"/>
-    <line x1="3400" y1="0" x2="4400" y2="3000"/>
+  <!-- Center radial glow -->
+  <ellipse cx="2000" cy="1400" rx="1900" ry="1300" fill="url(#centerGlow)"/>
+
+  <!-- Diagonal stripe texture -->
+  <g opacity="0.025" stroke="#ffffff" stroke-width="50">
+    <line x1="-300" y1="0" x2="700"  y2="3000"/>
+    <line x1="100"  y1="0" x2="1100" y2="3000"/>
+    <line x1="500"  y1="0" x2="1500" y2="3000"/>
+    <line x1="900"  y1="0" x2="1900" y2="3000"/>
+    <line x1="1300" y1="0" x2="2300" y2="3000"/>
+    <line x1="1700" y1="0" x2="2700" y2="3000"/>
+    <line x1="2100" y1="0" x2="3100" y2="3000"/>
+    <line x1="2500" y1="0" x2="3500" y2="3000"/>
+    <line x1="2900" y1="0" x2="3900" y2="3000"/>
+    <line x1="3300" y1="0" x2="4300" y2="3000"/>
   </g>
 
-  <!-- Top & bottom gold bars -->
-  <rect x="0" y="0"    width="4000" height="110" fill="url(#goldH)"/>
-  <rect x="0" y="2890" width="4000" height="110" fill="url(#goldH)"/>
+  <!-- TOP GREEN BAR -->
+  <rect x="0" y="0" width="4000" height="130" fill="url(#greenH)"/>
+  <!-- Gold accent line under green bar -->
+  <rect x="0" y="130" width="4000" height="5" fill="#fbbf24" opacity="0.55"/>
 
-  <!-- Side vertical gold lines -->
-  <rect x="70"   y="110" width="8" height="2780" fill="url(#goldV)" opacity="0.6"/>
-  <rect x="3922" y="110" width="8" height="2780" fill="url(#goldV)" opacity="0.6"/>
-  <rect x="95"   y="110" width="3" height="2780" fill="#ffd700" opacity="0.2"/>
-  <rect x="3902" y="110" width="3" height="2780" fill="#ffd700" opacity="0.2"/>
+  <!-- BOTTOM GREEN BAR -->
+  <rect x="0" y="2870" width="4000" height="130" fill="url(#greenH)"/>
+  <!-- Gold accent line above bottom bar -->
+  <rect x="0" y="2865" width="4000" height="5" fill="#fbbf24" opacity="0.55"/>
 
-  <!-- Pickleball icon — LEFT decorative -->
-  <g transform="translate(480,1500)" opacity="0.17">
-    <circle r="340" fill="url(#ballGlow)" stroke="#ffd700" stroke-width="14"/>
-    <path d="M-340,0 Q-170,-280 0,-320 Q170,-280 340,0" fill="none" stroke="#ffd700" stroke-width="10"/>
-    <path d="M-340,0 Q-170,280 0,320 Q170,280 340,0"   fill="none" stroke="#ffd700" stroke-width="10"/>
-    <circle cx="-200" cy="-160" r="26" fill="#ffd700"/>
-    <circle cx="-100" cy="-185" r="26" fill="#ffd700"/>
-    <circle cx="0"    cy="-195" r="26" fill="#ffd700"/>
-    <circle cx="100"  cy="-185" r="26" fill="#ffd700"/>
-    <circle cx="200"  cy="-160" r="26" fill="#ffd700"/>
-    <circle cx="-240" cy="-50"  r="26" fill="#ffd700"/>
-    <circle cx="-130" cy="-60"  r="26" fill="#ffd700"/>
-    <circle cx="0"    cy="-65"  r="26" fill="#ffd700"/>
-    <circle cx="130"  cy="-60"  r="26" fill="#ffd700"/>
-    <circle cx="240"  cy="-50"  r="26" fill="#ffd700"/>
-    <circle cx="-240" cy="70"   r="26" fill="#ffd700"/>
-    <circle cx="-130" cy="60"   r="26" fill="#ffd700"/>
-    <circle cx="0"    cy="55"   r="26" fill="#ffd700"/>
-    <circle cx="130"  cy="60"   r="26" fill="#ffd700"/>
-    <circle cx="240"  cy="70"   r="26" fill="#ffd700"/>
-    <circle cx="-200" cy="180"  r="26" fill="#ffd700"/>
-    <circle cx="-100" cy="195"  r="26" fill="#ffd700"/>
-    <circle cx="0"    cy="200"  r="26" fill="#ffd700"/>
-    <circle cx="100"  cy="195"  r="26" fill="#ffd700"/>
-    <circle cx="200"  cy="180"  r="26" fill="#ffd700"/>
+  <!-- Side vertical green lines -->
+  <rect x="68"   y="135" width="10" height="2730" fill="url(#greenV)" opacity="0.55"/>
+  <rect x="3922" y="135" width="10" height="2730" fill="url(#greenV)" opacity="0.55"/>
+  <!-- Inner thin gold lines -->
+  <rect x="98"   y="135" width="3" height="2730" fill="#fbbf24" opacity="0.18"/>
+  <rect x="3899" y="135" width="3" height="2730" fill="#fbbf24" opacity="0.18"/>
+
+  <!-- Corner accent triangles -->
+  <polygon points="108,135 460,135 108,480" fill="#18a84a" opacity="0.18"/>
+  <polygon points="3892,135 3540,135 3892,480" fill="#18a84a" opacity="0.18"/>
+  <polygon points="108,2865 460,2865 108,2520" fill="#18a84a" opacity="0.18"/>
+  <polygon points="3892,2865 3540,2865 3892,2520" fill="#18a84a" opacity="0.18"/>
+
+  <!-- PICKLEBALL ICON — LEFT (green) -->
+  <g transform="translate(440,1500)" opacity="0.2">
+    <circle r="350" fill="url(#ballGlowG)" stroke="#18a84a" stroke-width="14"/>
+    <path d="M-350,0 Q-175,-290 0,-330 Q175,-290 350,0" fill="none" stroke="#18a84a" stroke-width="10"/>
+    <path d="M-350,0 Q-175,290 0,330 Q175,290 350,0"   fill="none" stroke="#18a84a" stroke-width="10"/>
+    <circle cx="-205" cy="-165" r="27" fill="#22cc58"/>
+    <circle cx="-102" cy="-190" r="27" fill="#22cc58"/>
+    <circle cx="0"    cy="-200" r="27" fill="#22cc58"/>
+    <circle cx="102"  cy="-190" r="27" fill="#22cc58"/>
+    <circle cx="205"  cy="-165" r="27" fill="#22cc58"/>
+    <circle cx="-245" cy="-52"  r="27" fill="#22cc58"/>
+    <circle cx="-132" cy="-62"  r="27" fill="#22cc58"/>
+    <circle cx="0"    cy="-67"  r="27" fill="#22cc58"/>
+    <circle cx="132"  cy="-62"  r="27" fill="#22cc58"/>
+    <circle cx="245"  cy="-52"  r="27" fill="#22cc58"/>
+    <circle cx="-245" cy="72"   r="27" fill="#22cc58"/>
+    <circle cx="-132" cy="62"   r="27" fill="#22cc58"/>
+    <circle cx="0"    cy="57"   r="27" fill="#22cc58"/>
+    <circle cx="132"  cy="62"   r="27" fill="#22cc58"/>
+    <circle cx="245"  cy="72"   r="27" fill="#22cc58"/>
+    <circle cx="-205" cy="185"  r="27" fill="#22cc58"/>
+    <circle cx="-102" cy="200"  r="27" fill="#22cc58"/>
+    <circle cx="0"    cy="205"  r="27" fill="#22cc58"/>
+    <circle cx="102"  cy="200"  r="27" fill="#22cc58"/>
+    <circle cx="205"  cy="185"  r="27" fill="#22cc58"/>
   </g>
 
-  <!-- Pickleball icon — RIGHT decorative -->
-  <g transform="translate(3520,1500)" opacity="0.17">
-    <circle r="340" fill="url(#ballGlow)" stroke="#ffd700" stroke-width="14"/>
-    <path d="M-340,0 Q-170,-280 0,-320 Q170,-280 340,0" fill="none" stroke="#ffd700" stroke-width="10"/>
-    <path d="M-340,0 Q-170,280 0,320 Q170,280 340,0"   fill="none" stroke="#ffd700" stroke-width="10"/>
-    <circle cx="-200" cy="-160" r="26" fill="#ffd700"/>
-    <circle cx="-100" cy="-185" r="26" fill="#ffd700"/>
-    <circle cx="0"    cy="-195" r="26" fill="#ffd700"/>
-    <circle cx="100"  cy="-185" r="26" fill="#ffd700"/>
-    <circle cx="200"  cy="-160" r="26" fill="#ffd700"/>
-    <circle cx="-240" cy="-50"  r="26" fill="#ffd700"/>
-    <circle cx="-130" cy="-60"  r="26" fill="#ffd700"/>
-    <circle cx="0"    cy="-65"  r="26" fill="#ffd700"/>
-    <circle cx="130"  cy="-60"  r="26" fill="#ffd700"/>
-    <circle cx="240"  cy="-50"  r="26" fill="#ffd700"/>
-    <circle cx="-240" cy="70"   r="26" fill="#ffd700"/>
-    <circle cx="-130" cy="60"   r="26" fill="#ffd700"/>
-    <circle cx="0"    cy="55"   r="26" fill="#ffd700"/>
-    <circle cx="130"  cy="60"   r="26" fill="#ffd700"/>
-    <circle cx="240"  cy="70"   r="26" fill="#ffd700"/>
-    <circle cx="-200" cy="180"  r="26" fill="#ffd700"/>
-    <circle cx="-100" cy="195"  r="26" fill="#ffd700"/>
-    <circle cx="0"    cy="200"  r="26" fill="#ffd700"/>
-    <circle cx="100"  cy="195"  r="26" fill="#ffd700"/>
-    <circle cx="200"  cy="180"  r="26" fill="#ffd700"/>
+  <!-- PICKLEBALL ICON — RIGHT (green) -->
+  <g transform="translate(3560,1500)" opacity="0.2">
+    <circle r="350" fill="url(#ballGlowG)" stroke="#18a84a" stroke-width="14"/>
+    <path d="M-350,0 Q-175,-290 0,-330 Q175,-290 350,0" fill="none" stroke="#18a84a" stroke-width="10"/>
+    <path d="M-350,0 Q-175,290 0,330 Q175,290 350,0"   fill="none" stroke="#18a84a" stroke-width="10"/>
+    <circle cx="-205" cy="-165" r="27" fill="#22cc58"/>
+    <circle cx="-102" cy="-190" r="27" fill="#22cc58"/>
+    <circle cx="0"    cy="-200" r="27" fill="#22cc58"/>
+    <circle cx="102"  cy="-190" r="27" fill="#22cc58"/>
+    <circle cx="205"  cy="-165" r="27" fill="#22cc58"/>
+    <circle cx="-245" cy="-52"  r="27" fill="#22cc58"/>
+    <circle cx="-132" cy="-62"  r="27" fill="#22cc58"/>
+    <circle cx="0"    cy="-67"  r="27" fill="#22cc58"/>
+    <circle cx="132"  cy="-62"  r="27" fill="#22cc58"/>
+    <circle cx="245"  cy="-52"  r="27" fill="#22cc58"/>
+    <circle cx="-245" cy="72"   r="27" fill="#22cc58"/>
+    <circle cx="-132" cy="62"   r="27" fill="#22cc58"/>
+    <circle cx="0"    cy="57"   r="27" fill="#22cc58"/>
+    <circle cx="132"  cy="62"   r="27" fill="#22cc58"/>
+    <circle cx="245"  cy="72"   r="27" fill="#22cc58"/>
+    <circle cx="-205" cy="185"  r="27" fill="#22cc58"/>
+    <circle cx="-102" cy="200"  r="27" fill="#22cc58"/>
+    <circle cx="0"    cy="205"  r="27" fill="#22cc58"/>
+    <circle cx="102"  cy="200"  r="27" fill="#22cc58"/>
+    <circle cx="205"  cy="185"  r="27" fill="#22cc58"/>
   </g>
 
-  <!-- Small pickleball icon center-top -->
-  <g transform="translate(2000,430)" opacity="0.9">
-    <circle r="90" fill="#ffd700" opacity="0.15" stroke="#ffd700" stroke-width="6"/>
-    <path d="M-90,0 Q-45,-74 0,-85 Q45,-74 90,0" fill="none" stroke="#ffd700" stroke-width="5" opacity="0.7"/>
-    <path d="M-90,0 Q-45,74 0,85 Q45,74 90,0"   fill="none" stroke="#ffd700" stroke-width="5" opacity="0.7"/>
-    <circle cx="-46" cy="-42" r="9" fill="#ffd700" opacity="0.9"/>
-    <circle cx="0"   cy="-50" r="9" fill="#ffd700" opacity="0.9"/>
-    <circle cx="46"  cy="-42" r="9" fill="#ffd700" opacity="0.9"/>
-    <circle cx="-55" cy="0"   r="9" fill="#ffd700" opacity="0.9"/>
-    <circle cx="0"   cy="0"   r="9" fill="#ffd700" opacity="0.9"/>
-    <circle cx="55"  cy="0"   r="9" fill="#ffd700" opacity="0.9"/>
-    <circle cx="-46" cy="42"  r="9" fill="#ffd700" opacity="0.9"/>
-    <circle cx="0"   cy="50"  r="9" fill="#ffd700" opacity="0.9"/>
-    <circle cx="46"  cy="42"  r="9" fill="#ffd700" opacity="0.9"/>
+  <!-- Pickleball icon center-top (small, decorative) -->
+  <g transform="translate(2000,440)" opacity="0.85">
+    <circle r="92" fill="#18a84a" opacity="0.12" stroke="#18a84a" stroke-width="6"/>
+    <path d="M-92,0 Q-46,-76 0,-87 Q46,-76 92,0" fill="none" stroke="#18a84a" stroke-width="5" opacity="0.7"/>
+    <path d="M-92,0 Q-46,76 0,87 Q46,76 92,0"   fill="none" stroke="#18a84a" stroke-width="5" opacity="0.7"/>
+    <circle cx="-47" cy="-43" r="9" fill="#22cc58"/>
+    <circle cx="0"   cy="-51" r="9" fill="#22cc58"/>
+    <circle cx="47"  cy="-43" r="9" fill="#22cc58"/>
+    <circle cx="-56" cy="0"   r="9" fill="#22cc58"/>
+    <circle cx="0"   cy="0"   r="9" fill="#22cc58"/>
+    <circle cx="56"  cy="0"   r="9" fill="#22cc58"/>
+    <circle cx="-47" cy="43"  r="9" fill="#22cc58"/>
+    <circle cx="0"   cy="51"  r="9" fill="#22cc58"/>
+    <circle cx="47"  cy="43"  r="9" fill="#22cc58"/>
   </g>
 
   <!-- MAIN TITLE: GIẢI PICKLEBALL -->
   <text x="2000" y="800"
         text-anchor="middle"
         font-family="'Arial Black', Arial, sans-serif"
-        font-size="240" font-weight="900"
+        font-size="248" font-weight="900"
         letter-spacing="16"
-        fill="url(#goldH)">GI&#7842;I PICKLEBALL</text>
+        fill="#ffffff"
+        filter="url(#textGlow)">GI&#7842;I PICKLEBALL</text>
 
   <!-- SUB-TITLE: GIAO LƯU -->
-  <text x="2000" y="1050"
+  <!-- Green highlight bar behind subtitle -->
+  <rect x="560" y="845" width="2880" height="225" fill="#18a84a" opacity="0.15" rx="8"/>
+  <text x="2000" y="1038"
         text-anchor="middle"
         font-family="'Arial Black', Arial, sans-serif"
-        font-size="210" font-weight="900"
-        letter-spacing="44"
-        fill="#ffffff">GIAO L&#431;U</text>
+        font-size="218" font-weight="900"
+        letter-spacing="42"
+        fill="#22cc58">GIAO L&#431;U</text>
 
-  <!-- Gold divider -->
-  <rect x="300" y="1120" width="3400" height="7" fill="url(#goldH)" rx="3"/>
-  <rect x="600" y="1136" width="2800" height="3" fill="#ffd700" opacity="0.25" rx="2"/>
+  <!-- Divider: green bar + gold line -->
+  <rect x="250" y="1110" width="3500" height="8" fill="url(#greenH)" rx="4"/>
+  <rect x="450" y="1126" width="3100" height="3" fill="#fbbf24" opacity="0.35" rx="2"/>
 
-  <!-- ORGANIZATION NAME: HĐH QUỲ HỢP KHU VỰC PHÍA BẮC -->
-  <text x="2000" y="1310"
+  <!-- ORGANIZATION NAME -->
+  <text x="2000" y="1302"
         text-anchor="middle"
         font-family="Arial, sans-serif"
-        font-size="128" font-weight="bold"
-        letter-spacing="5"
-        fill="#ffffff">H&#272;H QU&#7922; H&#7906;P KHU V&#7920;C PH&#205;A B&#7854;C</text>
+        font-size="126" font-weight="bold"
+        letter-spacing="6"
+        fill="#e8f5e9">H&#272;H QU&#7922; H&#7906;P KHU V&#7920;C PH&#205;A B&#7854;C</text>
 
   <!-- Thin gold divider -->
-  <rect x="700" y="1378" width="2600" height="4" fill="url(#goldH)" opacity="0.65" rx="2"/>
+  <rect x="650" y="1368" width="2700" height="4" fill="url(#goldH)" opacity="0.6" rx="2"/>
 
-  <!-- DATE & LOCATION -->
-  <text x="2000" y="1535"
+  <!-- DATE & LOCATION — fixed Thứ Bảy -->
+  <text x="2000" y="1526"
         text-anchor="middle"
         font-family="Arial, sans-serif"
-        font-size="108"
-        fill="#ffd700">
-    Th&#7913; B&#7842;y, 06/06/2026&#160;&#160;&#8226;&#160;&#160;H&#224; N&#7897;i
+        font-size="110"
+        fill="#fbbf24">
+    Th&#7913; B&#7843;y, 06/06/2026&#160;&#160;&#8226;&#160;&#160;H&#224; N&#7897;i
   </text>
 
-  <!-- Bottom tagline -->
-  <text x="2000" y="2710"
+  <!-- Bottom slogan -->
+  <text x="2000" y="2716"
         text-anchor="middle"
         font-family="Arial, sans-serif"
         font-size="66"
-        fill="#ffd700" opacity="0.55"
-        letter-spacing="4">&#272;&#7891;ng h&#432;&#417;ng Qu&#7923; H&#7907;p &#8212; N&#417;i t&#236;nh qu&#234; h&#7897;i t&#7909;, n&#417;i s&#7913;c kh&#7887;e th&#259;ng hoa</text>
+        fill="#22cc58" opacity="0.65"
+        letter-spacing="3">&#272;&#7891;ng h&#432;&#417;ng Qu&#7923; H&#7907;p &#8212; N&#417;i t&#236;nh qu&#234; h&#7897;i t&#7909;, n&#417;i s&#7913;c kh&#7887;e th&#259;ng hoa</text>
 
 </svg>
