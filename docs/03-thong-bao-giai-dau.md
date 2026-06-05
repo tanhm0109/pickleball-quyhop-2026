@@ -71,7 +71,44 @@ Hẹn gặp bà con thứ Bảy! 🎉
 
 ---
 
-## Mẫu bình chọn Zalo
+## THÔNG BÁO 4 — Mời cổ vũ & tiệc bia liên hoan (đăng ngày 4/6)
+
+> *Đăng: Zalo nhóm HĐH + Facebook Page HĐH Quỳ Hợp Phía Bắc*
+
+---
+
+🍺 **MỜI BÀ CON ĐẾN CỔ VŨ & TIỆC BIA LIÊN HOAN!**
+
+Giải Pickleball Giao Lưu HĐH Quỳ Hợp sắp diễn ra rồi bà con ơi! 🏓
+
+Dù chưa đăng ký thi đấu — **BTC vẫn mời toàn thể bà con đến cổ vũ và tham gia tiệc bia giao lưu** sau giải nhé!
+
+📅 **Thứ Bảy, 06/06/2026**
+📍 **Sân Pickleball trạm bơm hồ Định Công, Hà Nội** ([bản đồ](https://maps.app.goo.gl/8GAQBNNMUT5AdNFb7?g_st=ac))
+⏰ **Thi đấu:** từ 7:30 sáng
+🍺 **Tiệc bia liên hoan:** ngay sau thi đấu — địa điểm cập nhật sau
+
+Đây là dịp để gặp gỡ, hàn huyên và cổ vũ cho các VĐV đồng hương mình! 🙌
+
+📲 **Bình chọn bên dưới để BTC biết số lượng nhé** 👇
+
+Liên hệ BTC: **Nguyễn Hồng Trung Kiên — 0973358670**
+
+---
+
+## Mẫu bình chọn Zalo — Cổ vũ & Tiệc bia
+
+**Tiêu đề:** Tham gia cổ vũ & tiệc bia — Giải Pickleball HĐH Quỳ Hợp 6/6
+
+**Lựa chọn:**
+- ✅ Đến cổ vũ tại sân + tham gia tiệc bia
+- 🍺 Chỉ tham gia tiệc bia (không đến sân)
+- ❌ Lần này chưa tham gia được
+
+**Ghi chú kèm theo:**
+> BTC cần biết số lượng để chuẩn bị chỗ ngồi tiệc bia — bà con bình chọn giúp nhé! Mọi người đồng hương đều được chào đón, kể cả chưa quen biết 🤝
+
+
 
 **Tiêu đề:** Đăng ký Giải Pickleball HĐH Quỳ Hợp — 6/6/2026
 

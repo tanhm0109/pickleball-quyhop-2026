@@ -34,7 +34,8 @@
 | 1.4 | Ghim bài + nhắc lại trên Zalo nhóm | 20/5 | ⬜ |
 | 1.5 | Đăng Thông báo 2 (nhắc đăng ký — sắp đóng) | 20/5 | ⬜ |
 | 1.6 | Đăng Thông báo 3 (lịch thi đấu chính thức) | 27/5 | ⬜ |
-| 1.7 | Chụp ảnh / quay video trong ngày thi, đăng recap | 6–7/6 | ⬜ |
+| 1.7 | Đăng Thông báo 4 (mời cổ vũ & tiệc bia, kèm bình chọn) | 4/6 | ⬜ |
+| 1.8 | Chụp ảnh / quay video trong ngày thi, đăng recap | 6–7/6 | ⬜ |
 
 ---
 
