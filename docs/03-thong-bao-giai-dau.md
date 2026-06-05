@@ -2,6 +2,27 @@
 
 ---
 
+## TIN NHẮN ZALO — Mời khách giao lưu & tiệc liên hoan (gửi cá nhân)
+
+---
+
+Anh/Chị/Em [Tên] ơi! 🏓
+
+**Hội Đồng Hương Quỳ Hợp Khu Vực Phía Bắc** tổ chức **Giải Pickleball Giao Lưu** vào **thứ Bảy này, 06/06/2026** — mình trân trọng mời anh/chị/em đến cổ vũ và tham gia tiệc liên hoan cùng bà con nhé! 🎉
+
+🏓 **Thi đấu:** 8:00 – 12:00
+📍 Sân Pickleball trạm bơm hồ Định Công
+👉 https://maps.app.goo.gl/8GAQBNNMUT5AdNFb7?g_st=ac
+
+🍺 **Tiệc liên hoan:** từ 12:15
+📍 Nhà hàng Bia Hà Nội — 388 Trần Điền, Hà Nội
+
+Rất vui nếu được gặp anh/chị/em! Anh/chị/em confirm giúp mình với nhé 🙏
+
+Liên hệ: **Kiên — 0973358670**
+
+---
+
 ## THÔNG BÁO 1 — Phát động giải (ngay sau khi thành lập BTC)
 
 > *Đăng đồng thời: Zalo nhóm HĐH + Facebook Page HĐH Quỳ Hợp Phía Bắc*
