@@ -49,6 +49,8 @@
 | 2.2 | Nhắn riêng xác nhận từng người đăng ký (họ tên, SĐT, xác nhận level) | Đến 24/5 | ⬜ |
 | 2.3 | Chốt danh sách cuối, bàn giao cho BTC chia đội | 24/5 | ⬜ |
 | 2.4 | Gửi xác nhận lại cho từng người sau khi có lịch | 20/5 | ⬜ |
+| 2.5 | Đăng thông báo thu lệ phí, nhắn riêng từng VĐV | Sau 23/5 | ⬜ |
+| 2.6 | Theo dõi chuyển khoản, xác nhận từng người đã đóng phí | Đến 5/6 | ⬜ |
 
 ---
 

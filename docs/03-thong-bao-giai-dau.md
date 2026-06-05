@@ -59,6 +59,43 @@ Hẹn gặp bà con thứ Bảy! 🎉
 
 ---
 
+## THÔNG BÁO 5 — Thu lệ phí tham gia (đăng sau khi chốt đăng ký)
+
+> *Đăng: Zalo nhóm HĐH + nhắn riêng từng người đã đăng ký*
+
+---
+
+💰 **LỆ PHÍ THAM GIA GIẢI PICKLEBALL HĐH QUỲ HỢP**
+
+Bà con VĐV đã đăng ký thi đấu vui lòng đóng lệ phí để BTC xác nhận suất tham gia nhé!
+
+**Lệ phí:** **300.000đ / người**
+
+*(Bao gồm: thuê sân, nước uống tại sân, huy chương & giải thưởng)*
+
+---
+
+🏦 **Thông tin chuyển khoản:**
+
+> **Lê Thị Minh Hồng**
+> Số TK: **1816322997**
+> Ngân hàng: **Vietcombank**
+>
+> Cú pháp: `[Tên người tham gia] - Pickleball Quỳ Hợp`
+>
+> *Ví dụ: Nguyen Van A - Pickleball Quy Hop*
+
+---
+
+📌 **Lưu ý:**
+- Chụp màn hình biên lai gửi lại cho BTC (Hoàng Minh Thắng) để xác nhận
+- Hạn đóng lệ phí: **trước 5/6/2026**
+- Chưa đóng lệ phí đúng hạn sẽ được BTC nhắc riêng
+
+Liên hệ BTC: **Hoàng Minh Thắng — 0987838307**
+
+---
+
 ## Phân loại level
 
 | Level | Tên gọi | Tiêu chí |
